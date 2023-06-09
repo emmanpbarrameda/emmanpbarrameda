@@ -1,7 +1,7 @@
 
 #
 
-[![Cover](https://drive.google.com/uc?export=view&id=1OGOKYZNt6vDvfkj_C5kJmqty8u0jYN_d)](https://github.com/emmanpbarrameda/)
+[![Cover](https://i.imgur.com/x3FW8OJ.png)](https://github.com/emmanpbarrameda/)
 
 Hello world 👋🏾! I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of desktop development.
 
@@ -24,6 +24,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
       </a>
       <br />
       <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank">my portfolio</a> to learn more about me!</p>
+      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=for-the-badge&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
     <td align="center">
       <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>. It provides a comprehensive view of my abilities and achievements. Thank you!</h3>
@@ -43,16 +44,18 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/emmanpbarrameda/count.svg" />
 </p>
+<br>
 
 
-
-## Things I am passionate about 👩🏾‍💻
+## 💡 Things I am passionate about 
 
 - Desktop Application Development
 - Android Application Development
 - Graphic Designing
+<br>
 
-## Stats
+
+## 📊 Stats
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; background-color: #0D1117; padding: 20px; border-radius: 6px;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-basis: 48%; text-decoration: none;">
@@ -67,10 +70,10 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
     <img src="https://streak-stats.demolab.com/?user=emmanpbarrameda&theme=dark" alt="GitHub Streak Stats" style="width: 30%">
   </a>
 </div>
+<br>
 
 
-
-## Friends
+## 🤜🤛 Friends
 
 <!-- FIRST ROW -->
 | [@justine91514](https://github.com/justine91514) | [@ericksenn](https://github.com/ericksenn) | [@RachQuio](https://github.com/RachQuio) | [@carandave](https://github.com/carandave) |
@@ -83,21 +86,25 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 | --- | --- | --- | --- |
 | [<img src="https://avatars.githubusercontent.com/user1?s=100" width="100" height="100">](https://github.com/user1) | [<img src="https://avatars.githubusercontent.com/user2?s=100" width="100" height="100">](https://github.com/user2) | [<img src="https://avatars.githubusercontent.com/user3?s=100" width="100" height="100">](https://github.com/user3) | [<img src="https://avatars.githubusercontent.com/user4?s=100" width="100" height="100">](https://github.com/user4) |
 -->
+<br>
 
 
 ## Get in touch
 
-<a href="https://emmanpbarrameda.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-%20-blue?style=for-the-badge&logo=web"></a>
-&nbsp;&nbsp;
-<a href="mailto:emmanuelbarrameda1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%20-red?style=for-the-badge&logo=gmail"></a>
-&nbsp;&nbsp;
-<a href="https://facebook.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%20-blue?style=for-the-badge&logo=facebook"></a>
-&nbsp;&nbsp;
-<a href="https://t.me/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%20-blue?style=for-the-badge&logo=telegram"></a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
+<p align="center">
+  <a href="https://emmanpbarrameda.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-%20-blue?style=for-the-badge&logo=web"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:emmanuelbarrameda1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%20-red?style=for-the-badge&logo=gmail"></a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%20-blue?style=for-the-badge&logo=facebook"></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%20-blue?style=for-the-badge&logo=telegram"></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
+</p>
+<br>
 
 
 
@@ -107,4 +114,16 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 </br>
 
 ------------
+
+<p align="center">
+
+  <!-- my name -->
+  <img alt='/e/' src='https://img.shields.io/badge/MADE_BY - EMMAN_P_BARRAMEDA-100000?style=for-the-badge&logo=/e/&logoColor=1877F2&labelColor=FFFFFF&color=1877F2'/>
+  
+  <!-- made with love -->
+  <img alt='' src='https://img.shields.io/badge/MADE_- WITH LOVE-100000?style=for-the-badge&logo=&logoColor=white&labelColor=EF4041&color=C1282D'/>
+  
+<p align="center">
+
+  
 <p align="center">Copyright © 2023 emmanpbarrameda.<br>All rights reserved.</p
