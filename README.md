@@ -76,9 +76,9 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ## 🤜🤛 Friends
 
 <!-- FIRST ROW -->
-| [@justine91514](https://github.com/justine91514) | [@ericksenn](https://github.com/ericksenn) | [@RachQuio](https://github.com/RachQuio) | [@carandave](https://github.com/carandave) |
-| --- | --- | --- | --- |
-| [<img src="https://avatars.githubusercontent.com/justine91514?s=100" width="100" height="100">](https://github.com/justine91514) | [<img src="https://avatars.githubusercontent.com/ericksenn?s=100" width="100" height="100">](https://github.com/ericksenn) | [<img src="https://avatars.githubusercontent.com/RachQuio?s=100" width="100" height="100">](https://github.com/RachQuio) | [<img src="https://avatars.githubusercontent.com/carandave?s=100" width="100" height="100">](https://github.com/carandave) |
+| [@justine91514](https://github.com/justine91514) | [@ericksenn](https://github.com/ericksenn) | [@RachQuio](https://github.com/RachQuio) | [@carandave](https://github.com/carandave) | [@abedejos-erika](https://github.com/abedejos-erika) |
+| --- | --- | --- | --- | --- | 
+| [<img src="https://avatars.githubusercontent.com/justine91514?s=100" width="100" height="100">](https://github.com/justine91514) | [<img src="https://avatars.githubusercontent.com/ericksenn?s=100" width="100" height="100">](https://github.com/ericksenn) | [<img src="https://avatars.githubusercontent.com/RachQuio?s=100" width="100" height="100">](https://github.com/RachQuio) | [<img src="https://avatars.githubusercontent.com/carandave?s=100" width="100" height="100">](https://github.com/carandave) | [<img src="https://avatars.githubusercontent.com/abedejos-erika?s=100" width="100" height="100">](https://github.com/abedejos-erika) |
 
 <!-- SECOND ROW -->
 <!--
