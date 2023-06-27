@@ -27,6 +27,9 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
       <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=for-the-badge&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
     <td align="center">
+      <p align="center"> <!-- TYPING SVG -->
+      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com? font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=emmanpbarrameda;%3CStudent%3CProgrammer%3CDesktop+Application+Developer%3CFreelancer%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
+      </p>
       <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>. It provides a comprehensive view of my abilities and achievements. Thank you!</h3>
       <br />
       <br />
@@ -39,15 +42,17 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ##
 
 
-
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/emmanpbarrameda/count.svg" />
+  <a href="https://emmanpbarrameda.github.io"> <!-- Profile Count SVG -->
+    <img src="https://profile-counter.glitch.me/emmanpbarrameda/count.svg" alt="Profile Count SVG" />
+  </a>
 </p>
 <br>
 
 
-## 💡 Things I am passionate about 
+
+## 💡 Things I am Passionate About 
 
 - Desktop Application Development
 - Android Application Development
@@ -55,22 +60,55 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <br>
 
 
+
+## 🔧 Programming Languages, Tools, and Platforms I'm Familiar With
+
+<p align="left">
+  <a href="https://emmanpbarrameda.github.io"> <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,java,sqlite,mysql,html,css,javascript,eclipse,idea,visualstudio,vscode,git,github,ai,ps,discord,stackoverflow,linkedin" />
+  </a>
+</p>
+<br>
+
+
+
 ## 📊 Stats
 
+<!-- SUMMARY 1 -->
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; background-color: #0D1117; padding: 20px; border-radius: 6px;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-basis: 48%; text-decoration: none;">
+  <a href="https://emmanpbarrameda.github.io" style="flex-basis: 48%; text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanpbarrameda&layout=compact&langs_count=10&theme=dark" alt="Top Languages" style="width: 30%">
   </a>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-basis: 48%; text-decoration: none;">
+  <a href="https://emmanpbarrameda.github.io" style="flex-basis: 48%; text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=emmanpbarrameda&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" style="width: 30%">
   </a>
   
-  <a href="https://streak-stats.demolab.com/?user=emmanpbarrameda" style="flex-basis: 100%; text-decoration: none;">
+  <a href="https://emmanpbarrameda.github.io" style="flex-basis: 100%; text-decoration: none;">
     <img src="https://streak-stats.demolab.com/?user=emmanpbarrameda&theme=dark" alt="GitHub Streak Stats" style="width: 30%">
   </a>
 </div>
+
+</details>
+
+<!-- SUMMARY 2 -->
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+<p align="left">
+  <a href="https://emmanpbarrameda.github.io"> <!-- Github Trophy -->
+    <img src="https://github-profile-trophy.vercel.app/?username=emmanpbarrameda" />
+  </a>
+</p>
+
+</details>
 <br>
+
 
 
 ## 🤜🤛 Friends
