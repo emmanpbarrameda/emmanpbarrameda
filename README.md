@@ -24,7 +24,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
       </a>
       <br />
       <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank">my portfolio</a> to learn more about me!</p>
-      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=for-the-badge&label=Follow on GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
+      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=for-the-badge&label=Follow%20on%20GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
     <td align="center">
       <p align="center"> <!-- TYPING SVG -->
