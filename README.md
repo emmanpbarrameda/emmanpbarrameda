@@ -56,6 +56,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 - Desktop Application Development
 - Android Application Development
+- Backend Development
 - Graphic Designing
 <br>
 
