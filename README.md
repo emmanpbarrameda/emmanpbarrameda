@@ -65,7 +65,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 <p align="left">
   <a href="https://emmanpbarrameda.github.io"> <!-- https://skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,java,sqlite,mysql,html,css,javascript,php,laravel,eclipse,idea,visualstudio,vscode,replit,git,github,ai,figma,ps,discord,stackoverflow,linkedin&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,java,sqlite,mysql,html,css,bootstrap,javascript,php,laravel,eclipse,idea,visualstudio,vscode,replit,git,github,ai,figma,ps,discord,stackoverflow,linkedin&theme=light" />
   </a>
 </p>
 <br>
