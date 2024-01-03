@@ -165,4 +165,4 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <p align="center">
 
   
-<p align="center">Copyright © 2023 emmanpbarrameda.<br>All rights reserved.</p
+<p align="center">Copyright © 2024 emmanpbarrameda.<br>All rights reserved.</p
