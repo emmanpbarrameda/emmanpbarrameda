@@ -108,6 +108,15 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 </p>
 
 </details>
+
+<!-- SUMMARY 3 -->
+
+<details>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20"> <b>My Contributions</b></summary><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanpbarrameda&theme=vue" />
+</details>
+
 <br>
 
 
@@ -144,9 +153,6 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
   <a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
 </p>
 <br>
-
-
-
 
 
 <br>
