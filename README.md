@@ -3,7 +3,7 @@
 
 [![Cover](https://i.imgur.com/x3FW8OJ.png)](https://github.com/emmanpbarrameda/)
 
-Hello world 👋🏾! I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of desktop development.
+Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />! I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of desktop development.
 
 My programming journey began when I was just 16 years old as a Minecraft server owner. This experience ignited my interest in programming, and since then, I have been dedicated to studying the Java programming language. During my time at Vicente Madrigal Integrated School as a senior-high student, pursuing the TVL-ICT track, I excelled in Java and was recognized as the <b>"Best ICT Student"</b> upon graduation.
 
@@ -52,7 +52,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 
 
-## 💡 Things I am Passionate About 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> Things I am Passionate About 
 
 - Desktop Application Development
 - Android Application Development
@@ -62,7 +62,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 
 
-## 🔧 Programming Languages, Tools, and Platforms I'm Familiar With
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Programming Languages, Tools, and Platforms I'm Familiar With
 
 <p align="left">
   <a href="https://emmanpbarrameda.github.io"> <!-- https://skillicons.dev -->
@@ -73,12 +73,12 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 
 
-## 📊 Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="40"> Stats
 
 <!-- SUMMARY 1 -->
 
 <details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+    <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> <b>GitHub Stats</b></summary><br/>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; background-color: #0D1117; padding: 20px; border-radius: 6px;">
   <a href="https://emmanpbarrameda.github.io" style="flex-basis: 48%; text-decoration: none;">
@@ -112,7 +112,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 
 
-## 🤜🤛 Friends
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Friends
 
 <!-- FIRST ROW -->
 | [@justine91514](https://github.com/justine91514) | [@ericksenn](https://github.com/ericksenn) | [@RachQuio](https://github.com/RachQuio) | [@carandave](https://github.com/carandave) | [@abedejos-erika](https://github.com/abedejos-erika) |
@@ -128,7 +128,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <br>
 
 
-## Get in touch
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" /> Get in touch
 
 <p align="center">
   <a href="https://emmanpbarrameda.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-%20-blue?style=for-the-badge&logo=web"></a>
