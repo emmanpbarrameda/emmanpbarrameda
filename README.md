@@ -136,7 +136,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <br>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> This is a list of my most recent activity on GitHub.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Activity on GitHub.
 
 <!--RECENT_ACTIVITY:start-->
 
