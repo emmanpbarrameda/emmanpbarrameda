@@ -53,7 +53,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 <p align="center"> 
   Activity Status<br>
-  <a href="https://emmanpbarrameda.github.io"> <!-- Discord Status -->
+  <a href="https://emmanpbarrameda.github.io"> <!-- Discord Status | https://discord.c99.nl/ -->
     <img src="https://discord.c99.nl/widget/theme-2/262584647509082114.png" alt="Discord Status" />
   </a>
 </p>
@@ -72,7 +72,6 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <br>
 
 
-
 ## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Programming Languages, Tools, and Platforms I'm Familiar With
 
 <p align="left">
@@ -80,6 +79,12 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
     <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,java,sqlite,mysql,html,css,bootstrap,javascript,php,laravel,eclipse,idea,androidstudio,visualstudio,vscode,replit,git,github,ai,figma,ps,discord,stackoverflow,linkedin&theme=light" />
   </a>
 </p>
+<br>
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Technologist" width="45" height="45" /> Explore My Projects
+
+- [github.com/emmanpbarrameda/repositories](https://github.com/emmanpbarrameda?tab=repositories)
 <br>
 
 
