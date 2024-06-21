@@ -39,7 +39,7 @@ jobs:
           
           base: ""
           
-          config_octicon: no
+          config_octicon: yes
           
-          plugin_stargazers: no
-          plugin_contributors: no
+          plugin_stargazers: yes
+          plugin_contributors: yes
