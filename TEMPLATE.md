@@ -136,7 +136,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <br>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Technologist" width="45" height="45" /> My Recent activities on GitHub
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
