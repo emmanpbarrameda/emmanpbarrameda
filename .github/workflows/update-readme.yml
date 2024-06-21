@@ -16,7 +16,7 @@ jobs:
     steps:
       - name: 'Checkout Repository'
         uses: actions/Checkout@v3
-      - name: 'Update README.md from TEMPLATE.md'
+      - name: 'Updated README.md'
         uses: Readme-Workflows/recent-activity@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -39,7 +39,7 @@ jobs:
           
           base: ""
           
-          config_octicon: yes
+          config_octicon: no
           
-          plugin_stargazers: yes
-          plugin_contributors: yes
+          plugin_stargazers: no
+          plugin_contributors: no
