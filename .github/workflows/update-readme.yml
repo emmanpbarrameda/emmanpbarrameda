@@ -33,8 +33,8 @@ jobs:
           user: Readme-Workflows
           repo: recent-activity
           template: markdown
-          filename: README.md
-          markdown: TEMPLATE.md
+          filename: TEMPLATE.md
+          markdown: README.md
           markdown_cache: '.github/svg_cache'
           
           base: ""
