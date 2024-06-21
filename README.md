@@ -51,6 +51,17 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <br>
 
 
+<p align="center"> 
+  Activity Status<br>
+  <a href="https://emmanpbarrameda.github.io"> <!-- Discord Status -->
+    <img src="https://discord.c99.nl/widget/theme-2/262584647509082114.png" alt="Discord Status" />
+  </a>
+</p>
+<br>
+
+
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> Things I am Passionate About 
 
