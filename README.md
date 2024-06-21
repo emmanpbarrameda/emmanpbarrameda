@@ -1,160 +1,199 @@
-# Recent Activity
 
-[![starsBadge]][stargazers]
-[![forksBadge]][forks]
-[![issuesBadge]][issues]
-![sizeBadge]
-![codelinesBadge]
-[![codeOfConductBadge]][codeOfConduct]
+#
 
-![uniqueUsersBadge]
-![totalrunsbadge]
-![successratebadge]
+[![Cover](https://i.imgur.com/x3FW8OJ.png)](https://github.com/emmanpbarrameda/)
 
-[![discordBadge]][Discord]
+Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />! I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of desktop development.
 
-This GitHub Action is a Fork of the original [GitHub Activity Readme][githubActivityReadme] Action by [jamesgeorge007].  
-Its our goal is to improve the original GitHub Action while also providing new features for the users.
+My programming journey began when I was just 16 years old as a Minecraft server owner. This experience ignited my interest in programming, and since then, I have been dedicated to studying the Java programming language. During my time at Vicente Madrigal Integrated School as a senior-high student, pursuing the TVL-ICT track, I excelled in Java and was recognized as the <b>"Best ICT Student"</b> upon graduation.
 
-## Live Preview
+Since then, I have embarked on a freelancing journey during the covid-19 lockdown, specializing in the creation of desktop and mobile applications.
 
-This is an example live preview that is updated every time a commit is pushed using github actions.
+Currently, I am a third-year college student pursuing a Bachelor of Science in Information Technology at the University of Rizal System Binangonan. My studies revolve around <b>Object Oriented Programming, Designing, and Web Development</b>.
+<br>
+</br>
 
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 21st, 2024, 1:01:15 AM
-<!--RECENT_ACTIVITY:last_update_end-->
+<!-- Social -->
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://emmanpbarrameda.github.io">
+        <strong>Visit My Portfolio</strong>
+        <br />
+        <img src="https://avatars.githubusercontent.com/u/67356375?v=4" alt="Profile Image" width="180" style="border-radius: 50%;" />
+      </a>
+      <br />
+      <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank">my portfolio</a> to learn more about me!</p>
+      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=for-the-badge&label=Follow%20on%20GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
+    </td>
+    <td align="center">
+      <p align="center"> <!-- TYPING SVG -->
+      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com? font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=emmanpbarrameda;%3CStudent%3CProgrammer%3CDesktop+Application+Developer%3CFreelancer%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
+      </p>
+      <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>. It provides a comprehensive view of my abilities and achievements. Thank you!</h3>
+      <br />
+      <br />
+    </td>
+  </tr>
+</table>
+
+</br>
+
+##
+
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="https://emmanpbarrameda.github.io"> <!-- Profile Count SVG -->
+    <img src="https://profile-counter.glitch.me/emmanpbarrameda/count.svg" alt="Profile Count SVG" />
+  </a>
+</p>
+<br>
+
+
+<p align="center"> 
+  Activity Status<br>
+  <a href="https://emmanpbarrameda.github.io"> <!-- Discord Status | https://discord.c99.nl/ -->
+    <img src="https://discord.c99.nl/widget/theme-2/262584647509082114.png" alt="Discord Status" />
+  </a>
+</p>
+<br>
+
+
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> Things I am Passionate About 
+
+- Desktop Application Development
+- Android Application Development
+- Backend Development
+- Graphic Designing
+<br>
+
+
+## <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Programming Languages, Tools, and Platforms I'm Familiar With
+
+<p align="left">
+  <a href="https://emmanpbarrameda.github.io"> <!-- https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=c,cpp,dotnet,java,sqlite,mysql,html,css,bootstrap,javascript,php,laravel,eclipse,idea,androidstudio,visualstudio,vscode,replit,git,github,ai,figma,ps,discord,stackoverflow,linkedin&theme=light" />
+  </a>
+</p>
+<br>
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Technologist" width="45" height="45" /> Explore My Projects
+
+- [github.com/emmanpbarrameda/repositories](https://github.com/emmanpbarrameda?tab=repositories)
+<br>
+
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="40"> Stats
+
+<!-- SUMMARY 1 -->
+
+<details>
+    <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> <b>GitHub Stats</b></summary><br/>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; background-color: #0D1117; padding: 20px; border-radius: 6px;">
+  <a href="https://emmanpbarrameda.github.io" style="flex-basis: 48%; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanpbarrameda&layout=compact&langs_count=10&theme=dark" alt="Top Languages" style="width: 30%">
+  </a>
+  
+  <a href="https://emmanpbarrameda.github.io" style="flex-basis: 48%; text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=emmanpbarrameda&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" style="width: 30%">
+  </a>
+  
+  <a href="https://emmanpbarrameda.github.io" style="flex-basis: 100%; text-decoration: none;">
+    <img src="https://streak-stats.demolab.com/?user=emmanpbarrameda&theme=dark" alt="GitHub Streak Stats" style="width: 30%">
+  </a>
+</div>
+
+</details>
+
+<!-- SUMMARY 2 -->
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+<p align="left">
+  <a href="https://emmanpbarrameda.github.io"> <!-- Github Trophy -->
+    <img src="https://github-profile-trophy.vercel.app/?username=emmanpbarrameda" />
+  </a>
+</p>
+
+</details>
+
+<!-- SUMMARY 3 -->
+
+<details>
+    <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20"> <b>My Contributions</b></summary><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanpbarrameda&theme=vue" />
+</details>
+
+<br>
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-2. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-3. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-4. ⬆️ Pushed 1 commit(s) to [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)<br>
-5. ⭐ Starred [Readme-Workflows/readme-replacer](https://github.com/Readme-Workflows/readme-replacer)<br>
-<!--RECENT_ACTIVITY:end-->
 
-## Features
+<!--RECENT_ACTIVITY:last_update-->
 
-### Support for many events
+<br>
 
-Events we support:
-- CommitCommentEvent - commenting on a commit
-- CreateEvent - A new repo was created
-- ForkEvent - You forked a repo
-- GollumEvent - Wiki was updated in a repo
-- IssueCommentEvent - You commented on a issue
-- IssuesEvent - You opened a issue
-- MemberEvent - You joined a org/repo as a member
-- PullRequestEvent - You opened a pr.
-- PullRequestReviewCommentEvent - You commented on a pr review
-- PullRequestReviewEvent - You reviewed a pr
-- ReleaseEvent - You released a new version
-- WatchEvent - You watched a repo.
 
-### Customizable Settings
 
-Adjust the settings to fit all the needs of your profile readme. You can select disabled events, commit message, text for the events, the timezone, etc.
+## <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Friends
 
-## Setup
+<!-- FIRST ROW -->
+| [@justine91514](https://github.com/justine91514) | [@ericksenn](https://github.com/ericksenn) | [@RachQuio](https://github.com/RachQuio) | [@carandave](https://github.com/carandave) | [@abedejos-erika](https://github.com/abedejos-erika) |
+| --- | --- | --- | --- | --- | 
+| [<img src="https://avatars.githubusercontent.com/justine91514?s=100" width="100" height="100">](https://github.com/justine91514) | [<img src="https://avatars.githubusercontent.com/ericksenn?s=100" width="100" height="100">](https://github.com/ericksenn) | [<img src="https://avatars.githubusercontent.com/RachQuio?s=100" width="100" height="100">](https://github.com/RachQuio) | [<img src="https://avatars.githubusercontent.com/carandave?s=100" width="100" height="100">](https://github.com/carandave) | [<img src="https://avatars.githubusercontent.com/abedejos-erika?s=100" width="100" height="100">](https://github.com/abedejos-erika) |
 
-A guide on how to set up this Action for the first time can be found on the [Setup Wiki page][setup].
+<!-- SECOND ROW -->
+<!--
+| [@user1](https://github.com/user1) | [@user2](https://github.com/user2) | [@user3](https://github.com/user3) | [@user4](https://github.com/user4) |
+| --- | --- | --- | --- |
+| [<img src="https://avatars.githubusercontent.com/user1?s=100" width="100" height="100">](https://github.com/user1) | [<img src="https://avatars.githubusercontent.com/user2?s=100" width="100" height="100">](https://github.com/user2) | [<img src="https://avatars.githubusercontent.com/user3?s=100" width="100" height="100">](https://github.com/user3) | [<img src="https://avatars.githubusercontent.com/user4?s=100" width="100" height="100">](https://github.com/user4) |
+-->
+<br>
 
-## Settings
 
-All available settings can be found on the [Wiki][settings].
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="40" height="40" /> Get in touch
 
-## History
+<p align="center">
+  <a href="https://emmanpbarrameda.github.io" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-%20-blue?style=for-the-badge&logo=web"></a>
+  &nbsp;&nbsp;
+  <a href="mailto:emmanuelbarrameda1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%20-red?style=for-the-badge&logo=gmail"></a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%20-blue?style=for-the-badge&logo=facebook"></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/Telegram-%20-blue?style=for-the-badge&logo=telegram"></a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%20-blue?style=for-the-badge&logo=linkedin"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/emmanpbarrameda/" target="_blank"><img src="https://img.shields.io/badge/GitHub-%20-black?style=for-the-badge&logo=github"></a>
+</p>
+<br>
 
-- The original project was inspired by [JasonEtco/activity-box][activityBox]
-- The original project was unmaintained when [PuneetGopinath] and [Abhishek][abhijoshi2k] wanted to get new feature added, so Puneet forked the repository and Abhishek supported his efforts.
-- We brought up the project to a new organisation named Readme-Workflows.
-- [Andre601] joined as a Member to maintain the documentation of the project.
-- Version 2 of the project was released bringing a new configuration-file, new events to list and more.
 
-## Community
+<br>
+</br>
 
-Get updates on Recent Activity's development and chat with the Recent Activity maintainers and community members.
+------------
 
-Please see the [SUPPORT.md][support] file for links.
+<p align="center">
 
-## Supporters
+  <!-- my name -->  <!-- https://kapasia-dev-ed.my.site.com/Badges4Me/s/ -->
+  <img alt='/e/' src='https://img.shields.io/badge/MADE_BY - EMMAN_P_BARRAMEDA-100000?style=for-the-badge&logo=/e/&logoColor=1877F2&labelColor=FFFFFF&color=1877F2'/>
+  
+  <!-- made with love -->
+  <img alt='' src='https://img.shields.io/badge/MADE_- WITH LOVE-100000?style=for-the-badge&logo=&logoColor=white&labelColor=EF4041&color=C1282D'/>
+  
+<p align="center">
 
-👏 A big thank you goes to all the supporters of this project!
-
-You prove that the Recent-Activity Action has some value for you!
-
-### Stargazers
-
-[<img src="https://github.com/emmanpbarrameda/emmanpbarrameda/blob/main/.github/svg_cache/stats-stargazers.svg">][stargazers]
-
-### Contributors
-
-Thanks to all contributors again!
-
-[<img src="https://github.com/emmanpbarrameda/emmanpbarrameda/blob/main/.github/svg_cache/stats-contributors.svg">][contributors]
-
-## Roadmap
-
-Visit our [Roadmap] for planned and upcoming features.
-
-## Support us
-
-Do you like this project?
-Why don't show your support by staring it ⭐ and joining all the other [stargazers]?
-
-## Contributing
-
-You can find the contributing guidelines [here][guidelines].
-
-## News
-
-Join our [Discord] and follow the `#news` channel or get a role from `#roles` channel to get notified about new updates and other important news.
-
-## Collected Data and Statistics
-
-This Action will collect certain statistics to improve it in the future.  
-Collected data includes username, username of commiter, e-mail of committer, time of the last workflow run and number of successful and failed runs.
-
-Data is refreshed at least once every 7 days and complete data is discarded if the action was not used for 7 days.  
-We do not share any data with 3rd-parties and only use it for improving this Action.
-
-By using this Action, you are agreeing to allow the aforementioned data to be collected.
-
-<!-- Links -->
-[forks]: https://github.com/Readme-Workflows/recent-activity/network/members
-[issues]: https://github.com/Readme-Workflows/recent-activity/issues
-[codeOfConduct]: https://github.com/Readme-Workflows/recent-activity/blob/main/.github/CODE_OF_CONDUCT.md
-
-[githubActivityReadme]: https://github.com/jamesgeorge007/github-activity-readme
-[jamesgeorge007]: https://github.com/jamesgeorge007
-
-[settings]: https://github.com/Readme-Workflows/recent-activity/wiki/Configuration
-[setup]: https://github.com/Readme-Workflows/recent-activity/wiki/Setup
-
-[puneetGopinath]: https://github.com/PuneetGopinath
-[abhijoshi2k]: https://github.com/abhijoshi2k
-[andre601]: https://github.com/Andre601
-
-[activityBox]: https://github.com/JasonEtco/activity-box
-
-[support]: https://github.com/Readme-Workflows/recent-activity/blob/main/.github/SUPPORT.md
-
-[stargazers]: https://github.com/Readme-Workflows/recent-activity/stargazers
-[contributors]: https://github.com/Readme-Workflows/recent-activity/contributors
-
-[Roadmap]: https://github.com/Readme-Workflows/recent-activity/projects/1
-
-[guidelines]: https://github.com/Readme-Workflows/recent-activity/blob/main/.github/CONTRIBUTING.md
-
-[Discord]: https://discord.gg/aR6TcVzpbF
-
-<!-- Badges -->
-[starsBadge]: https://img.shields.io/github/stars/Readme-Workflows/recent-activity?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOCAuMjVhLjc1Ljc1IDAgMDEuNjczLjQxOGwxLjg4MiAzLjgxNSA0LjIxLjYxMmEuNzUuNzUgMCAwMS40MTYgMS4yNzlsLTMuMDQ2IDIuOTcuNzE5IDQuMTkyYS43NS43NSAwIDAxLTEuMDg4Ljc5MUw4IDEyLjM0N2wtMy43NjYgMS45OGEuNzUuNzUgMCAwMS0xLjA4OC0uNzlsLjcyLTQuMTk0TC44MTggNi4zNzRhLjc1Ljc1IDAgMDEuNDE2LTEuMjhsNC4yMS0uNjExTDcuMzI3LjY2OEEuNzUuNzUgMCAwMTggLjI1eiI+PC9wYXRoPjwvc3ZnPg==
-[forksBadge]: https://img.shields.io/github/forks/Readme-Workflows/recent-activity?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNSAzLjI1YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTAgMi4xMjJhMi4yNSAyLjI1IDAgMTAtMS41IDB2Ljg3OEEyLjI1IDIuMjUgMCAwMDUuNzUgOC41aDEuNXYyLjEyOGEyLjI1MSAyLjI1MSAwIDEwMS41IDBWOC41aDEuNWEyLjI1IDIuMjUgMCAwMDIuMjUtMi4yNXYtLjg3OGEyLjI1IDIuMjUgMCAxMC0xLjUgMHYuODc4YS43NS43NSAwIDAxLS43NS43NWgtNC41QS43NS43NSAwIDAxNSA2LjI1di0uODc4em0zLjc1IDcuMzc4YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTMtOC43NWEuNzUuNzUgMCAxMDAtMS41Ljc1Ljc1IDAgMDAwIDEuNXoiPjwvcGF0aD48L3N2Zz4=
-[issuesBadge]: https://img.shields.io/github/issues/Readme-Workflows/recent-activity?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOCAxLjVhNi41IDYuNSAwIDEwMCAxMyA2LjUgNi41IDAgMDAwLTEzek0wIDhhOCA4IDAgMTExNiAwQTggOCAwIDAxMCA4em05IDNhMSAxIDAgMTEtMiAwIDEgMSAwIDAxMiAwem0tLjI1LTYuMjVhLjc1Ljc1IDAgMDAtMS41IDB2My41YS43NS43NSAwIDAwMS41IDB2LTMuNXoiPjwvcGF0aD48L3N2Zz4K
-[sizeBadge]: https://img.shields.io/github/repo-size/Readme-Workflows/recent-activity?logo=data:image/svg%2bxml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJzYXZlIiBjbGFzcz0ic3ZnLWlubGluZS0tZmEgZmEtc2F2ZSBmYS13LTE0IiByb2xlPSJpbWciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDQ0OCA1MTIiIGZpbGw9IndoaXRlIj48cGF0aCBkPSJNNDMzLjk0MSAxMjkuOTQxbC04My44ODItODMuODgyQTQ4IDQ4IDAgMCAwIDMxNi4xMTggMzJINDhDMjEuNDkgMzIgMCA1My40OSAwIDgwdjM1MmMwIDI2LjUxIDIxLjQ5IDQ4IDQ4IDQ4aDM1MmMyNi41MSAwIDQ4LTIxLjQ5IDQ4LTQ4VjE2My44ODJhNDggNDggMCAwIDAtMTQuMDU5LTMzLjk0MXpNMjI0IDQxNmMtMzUuMzQ2IDAtNjQtMjguNjU0LTY0LTY0IDAtMzUuMzQ2IDI4LjY1NC02NCA2NC02NHM2NCAyOC42NTQgNjQgNjRjMCAzNS4zNDYtMjguNjU0IDY0LTY0IDY0em05Ni0zMDQuNTJWMjEyYzAgNi42MjctNS4zNzMgMTItMTIgMTJINzZjLTYuNjI3IDAtMTItNS4zNzMtMTItMTJWMTA4YzAtNi42MjcgNS4zNzMtMTIgMTItMTJoMjI4LjUyYzMuMTgzIDAgNi4yMzUgMS4yNjQgOC40ODUgMy41MTVsMy40OCAzLjQ4QTExLjk5NiAxMS45OTYgMCAwIDEgMzIwIDExMS40OHoiPjwvcGF0aD48L3N2Zz4=
-[codelinesBadge]: https://img.shields.io/tokei/lines/github/Readme-Workflows/recent-activity?label=total%20lines%20of%20code&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNC43MiAzLjIyYS43NS43NSAwIDAxMS4wNiAxLjA2TDIuMDYgOGwzLjcyIDMuNzJhLjc1Ljc1IDAgMTEtMS4wNiAxLjA2TC40NyA4LjUzYS43NS43NSAwIDAxMC0xLjA2bDQuMjUtNC4yNXptNi41NiAwYS43NS43NSAwIDEwLTEuMDYgMS4wNkwxMy45NCA4bC0zLjcyIDMuNzJhLjc1Ljc1IDAgMTAxLjA2IDEuMDZsNC4yNS00LjI1YS43NS43NSAwIDAwMC0xLjA2bC00LjI1LTQuMjV6Ij48L3BhdGg+PC9zdmc+
-[discordBadge]: https://img.shields.io/discord/842728941088931870?color=7289da&label=discord&logo=discord&logoColor=white
-[CodeOfConductBadge]: https://img.shields.io/badge/Code%20of%20Conduct-Contributor%20Covenant%202.0-4baaaa.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiIgd2lkdGg9IjE2IiBoZWlnaHQ9IjE2IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNOC41MzMuMTMzYTEuNzUgMS43NSAwIDAwLTEuMDY2IDBsLTUuMjUgMS42OEExLjc1IDEuNzUgMCAwMDEgMy40OFY3YzAgMS41NjYuMzIgMy4xODIgMS4zMDMgNC42ODIuOTgzIDEuNDk4IDIuNTg1IDIuODEzIDUuMDMyIDMuODU1YTEuNyAxLjcgMCAwMDEuMzMgMGMyLjQ0Ny0xLjA0MiA0LjA0OS0yLjM1NyA1LjAzMi0zLjg1NUMxNC42OCAxMC4xODIgMTUgOC41NjYgMTUgN1YzLjQ4YTEuNzUgMS43NSAwIDAwLTEuMjE3LTEuNjY3TDguNTMzLjEzM3ptLS42MSAxLjQyOWEuMjUuMjUgMCAwMS4xNTMgMGw1LjI1IDEuNjhhLjI1LjI1IDAgMDEuMTc0LjIzOFY3YzAgMS4zNTgtLjI3NSAyLjY2Ni0xLjA1NyAzLjg2LS43ODQgMS4xOTQtMi4xMjEgMi4zNC00LjM2NiAzLjI5N2EuMi4yIDAgMDEtLjE1NCAwYy0yLjI0NS0uOTU2LTMuNTgyLTIuMTA0LTQuMzY2LTMuMjk4QzIuNzc1IDkuNjY2IDIuNSA4LjM2IDIuNSA3VjMuNDhhLjI1LjI1IDAgMDEuMTc0LS4yMzdsNS4yNS0xLjY4ek0xMS4yOCA2LjI4YS43NS43NSAwIDAwLTEuMDYtMS4wNkw3LjI1IDguMTlsLS45Ny0uOTdhLjc1Ljc1IDAgMTAtMS4wNiAxLjA2bDEuNSAxLjVhLjc1Ljc1IDAgMDAxLjA2IDBsMy41LTMuNXoiPjwvcGF0aD48L3N2Zz4=
-[uniqueUsersBadge]: https://readme-workflows.glitch.me/badge/recent-activity?data=unique-users&label=Unique+Users&color=blue
-[totalrunsbadge]: https://readme-workflows.glitch.me/badge/recent-activity?data=total-runs&label=Total+Runs+since+~time~&color=blue
-[successratebadge]: https://readme-workflows.glitch.me/badge/recent-activity?data=success-rate&label=Success+Rate
+  
+<p align="center">Copyright © 2024 emmanpbarrameda.<br>All rights reserved.</p
