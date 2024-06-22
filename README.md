@@ -139,15 +139,15 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [andrewdwallo/erpsaas](https://github.com/andrewdwallo/erpsaas)<br>
-2. 🔱 Forked [emmanpbarrameda/himanshuchandola](https://github.com/emmanpbarrameda/himanshuchandola) from [himanshuchandola/himanshuchandola](https://github.com/himanshuchandola/himanshuchandola)<br>
-3. 💪 Opened PR [#247](https://github.com/oyepriyansh/DevProfiles/pull/247) in [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/DevProfiles](https://github.com/emmanpbarrameda/DevProfiles)<br>
-5. 🔱 Forked [emmanpbarrameda/DevProfiles](https://github.com/emmanpbarrameda/DevProfiles) from [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+3. ⭐ Starred [andrewdwallo/erpsaas](https://github.com/andrewdwallo/erpsaas)<br>
+4. 🔱 Forked [emmanpbarrameda/himanshuchandola](https://github.com/emmanpbarrameda/himanshuchandola) from [himanshuchandola/himanshuchandola](https://github.com/himanshuchandola/himanshuchandola)<br>
+5. 💪 Opened PR [#247](https://github.com/oyepriyansh/DevProfiles/pull/247) in [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 23rd, 2024, 7:35:56 AM
+Last Updated: Sunday, June 23rd, 2024, 7:44:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
