@@ -139,15 +139,15 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ⭐ Starred [Hydrat-Agency/filament-table-layout-toggle](https://github.com/Hydrat-Agency/filament-table-layout-toggle)<br>
 2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-3. ⭐ Starred [andrewdwallo/erpsaas](https://github.com/andrewdwallo/erpsaas)<br>
-4. 🔱 Forked [emmanpbarrameda/himanshuchandola](https://github.com/emmanpbarrameda/himanshuchandola) from [himanshuchandola/himanshuchandola](https://github.com/himanshuchandola/himanshuchandola)<br>
-5. 💪 Opened PR [#247](https://github.com/oyepriyansh/DevProfiles/pull/247) in [oyepriyansh/DevProfiles](https://github.com/oyepriyansh/DevProfiles)<br>
+3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+4. ⭐ Starred [andrewdwallo/erpsaas](https://github.com/andrewdwallo/erpsaas)<br>
+5. 🔱 Forked [emmanpbarrameda/himanshuchandola](https://github.com/emmanpbarrameda/himanshuchandola) from [himanshuchandola/himanshuchandola](https://github.com/himanshuchandola/himanshuchandola)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 27th, 2024, 5:14:54 AM
+Last Updated: Thursday, June 27th, 2024, 5:26:40 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
