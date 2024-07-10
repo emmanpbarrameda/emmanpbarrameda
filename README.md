@@ -139,15 +139,15 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar)<br>
-2. ⭐ Starred [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)<br>
-3. 💪 Opened PR [#1](https://github.com/shuvroroy/filament-profile/pull/1) in [shuvroroy/filament-profile](https://github.com/shuvroroy/filament-profile)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-profile](https://github.com/emmanpbarrameda/filament-profile)<br>
-5. 🔱 Forked [emmanpbarrameda/filament-profile](https://github.com/emmanpbarrameda/filament-profile) from [shuvroroy/filament-profile](https://github.com/shuvroroy/filament-profile)<br>
+1. ⭐ Starred [jakegut/resume](https://github.com/jakegut/resume)<br>
+2. ⭐ Starred [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar)<br>
+3. ⭐ Starred [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)<br>
+4. 💪 Opened PR [#1](https://github.com/shuvroroy/filament-profile/pull/1) in [shuvroroy/filament-profile](https://github.com/shuvroroy/filament-profile)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-profile](https://github.com/emmanpbarrameda/filament-profile)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 10th, 2024, 10:44:21 PM
+Last Updated: Wednesday, July 10th, 2024, 10:53:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
