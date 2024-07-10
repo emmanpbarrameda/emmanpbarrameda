@@ -139,15 +139,15 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [sb2nov/resume](https://github.com/sb2nov/resume)<br>
-2. ⭐ Starred [jakegut/resume](https://github.com/jakegut/resume)<br>
-3. ⭐ Starred [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar)<br>
-4. ⭐ Starred [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)<br>
-5. 💪 Opened PR [#1](https://github.com/shuvroroy/filament-profile/pull/1) in [shuvroroy/filament-profile](https://github.com/shuvroroy/filament-profile)<br>
+1. 📔 Created new repository [emmanpbarrameda/EMMANS_RESUME](https://github.com/emmanpbarrameda/EMMANS_RESUME)<br>
+2. ⭐ Starred [sb2nov/resume](https://github.com/sb2nov/resume)<br>
+3. ⭐ Starred [jakegut/resume](https://github.com/jakegut/resume)<br>
+4. ⭐ Starred [aymanalhattami/filament-page-with-sidebar](https://github.com/aymanalhattami/filament-page-with-sidebar)<br>
+5. ⭐ Starred [warengonzaga/bini-theme](https://github.com/warengonzaga/bini-theme)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 11th, 2024, 6:47:05 AM
+Last Updated: Thursday, July 11th, 2024, 6:55:31 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
