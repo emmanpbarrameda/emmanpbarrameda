@@ -102,9 +102,9 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <!-- SUMMARY 1 -->
 
 <details>
-    <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20"> <b>GitHub Stats</b></summary><br/>
+    <summary><b>GitHub Stats</b></summary><br/>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; background-color: #0D1117; padding: 20px; border-radius: 6px;">
+  <!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; background-color: #0D1117; padding: 20px; border-radius: 6px;">
 
   <a href="https://emmanpbarrameda.github.io" style="flex-basis: 48%; text-decoration: none;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanpbarrameda&layout=compact&langs_count=10&theme=dark" alt="Top Languages" style="width: 30%">
@@ -116,9 +116,9 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
   
   <a href="https://emmanpbarrameda.github.io" style="flex-basis: 100%; text-decoration: none;">
     <img src="https://streak-stats.demolab.com/?user=emmanpbarrameda&theme=dark" alt="GitHub Streak Stats" style="width: 30%">
-  </a>
+  </a> -->
 
-  <!-- lowlighter/metrics -->
+  <!-- lowlighterMetrics -->
   <p align="center">
     <img src="/github-metrics.svg" />
   </p>
@@ -141,12 +141,11 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 </details>
 
 <!-- SUMMARY 3 -->
-
-<details>
+<!-- <details>
     <summary><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="20"> <b>My Contributions</b></summary><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanpbarrameda&theme=vue" />
-</details>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanpbarrameda&theme=vue" />
+</details> -->
 
 <br>
 
