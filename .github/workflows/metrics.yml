@@ -33,9 +33,6 @@ jobs:
           plugin_traffic: yes
           plugin_introduction_title: yes
 
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
@@ -44,6 +41,11 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
           repositories_affiliations: owner,contributor
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+          plugin_followup_indepth: yes
+
           plugin_calendar: yes
           plugin_calendar_limit: 2
 
