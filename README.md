@@ -42,7 +42,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ##
 
 <p align="center"> 
-  Visitor count
+  Visitor Stats
   <!-- DETAILD VISITOR STATS HERE:
   https://yhype.me/github/accounts/emmanpbarrameda/emmanpbarrameda/traffic -->
   <br>
