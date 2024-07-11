@@ -44,9 +44,10 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 <p align="center"> 
   Visitor count<br>
-  <a href="https://emmanpbarrameda.github.io"> <!-- Profile Count SVG -->
-    <img src="https://profile-counter.glitch.me/emmanpbarrameda/count.svg" alt="Profile Count SVG" />
-  </a>
+    <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-username>"/>  
+    </div>
 </p>
 <br>
 
