@@ -147,7 +147,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 11th, 2024, 10:27:44 AM
+Last Updated: Thursday, July 11th, 2024, 10:48:38 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
