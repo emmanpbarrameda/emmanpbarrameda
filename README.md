@@ -102,7 +102,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 <!-- SUMMARY 1 -->
 
 <details>
-    <summary><b>GitHub Stats</b></summary><br/>
+    <summary><b>📊 GitHub Stats</b></summary><br/>
 
   <!-- <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; background-color: #0D1117; padding: 20px; border-radius: 6px;">
 
