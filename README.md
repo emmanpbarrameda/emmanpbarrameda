@@ -142,12 +142,12 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANS_RESUME](https://github.com/emmanpbarrameda/EMMANS_RESUME)<br>
-5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANS_RESUME](https://github.com/emmanpbarrameda/EMMANS_RESUME)<br>
+4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 11th, 2024, 8:30:44 AM
+Last Updated: Thursday, July 11th, 2024, 9:46:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
