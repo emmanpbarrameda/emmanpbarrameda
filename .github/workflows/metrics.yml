@@ -42,10 +42,9 @@ jobs:
           plugin_lines: yes
           repositories_affiliations: owner,contributor
 
-
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_followup_indepth: yes
+          # plugin_followup: yes
+          # plugin_followup_sections: user
+          # plugin_followup_indepth: yes
 
           plugin_calendar: yes
           plugin_calendar_limit: 2
