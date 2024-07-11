@@ -28,7 +28,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
     </td>
     <td align="center">
       <p align="center"> <!-- TYPING SVG -->
-      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com? font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=emmanpbarrameda;%3CStudent%3CProgrammer%3CDesktop+Application+Developer%3CFreelancer%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
+      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=Backend+Developer;%3CStudent+Leader;%3CFreelancer;%3CMentor;%3CAspiring+Software+Engineer;%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
       </p>
       <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>. It provides a comprehensive view of my abilities and achievements. Thank you!</h3>
       <br />
