@@ -1,3 +1,6 @@
+
+# https://github.com/lowlighter/metrics?tab=readme-ov-file
+
 name: lowlighterMetrics
 on:
 
@@ -35,7 +38,10 @@ jobs:
           repositories_affiliations: owner,contributor
           plugin_calendar: yes
           plugin_calendar_limit: 2
+
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
           plugin_activity: yes
           plugin_activity_timestamps: yes
-          # plugin_leetcode: yes
-          # plugin_leetcode_user: timmoth
