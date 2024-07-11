@@ -8,14 +8,14 @@
     <br/>
   <a href="https://github.com/emmanpbarrameda?tab=repositories">Projects/Repo</a> •
   <a href="https://emmanpbarrameda.github.io/#about">About Me</a> •
-  <a href="">Certificates</a> •
+  <a href="https://emmanpbarrameda.github.io/#certificates">Certificates</a> •
   <a href="https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME/blob/main/RESUME/EMMANPBARRAMEDA_RESUME.pdf">Resume</a>
 </p>
 
 Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />!
 I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of programming.
 
-A <b>IT student</b> specializing in <b>backend development</b> with experience in <b>desktop and web development</b>. Initially focused on Java, now developing websites using the <b>LAMP stack with Laravel</b>. Became interested in programming at age 16 and continue learning today. Experienced in leadership, project management, freelancing, and mentoring. Innovative and dedicated to excellence in every project. Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE.</b></a>.
+A <b>IT student</b> specializing in <b>backend development</b> with experience in <b>desktop and web development</b>. Initially focused on Java, now developing websites using the <b>LAMP stack with Laravel</b>. Became interested in programming at age 16 and continue learning today. Experienced in leadership, project management, freelancing, and mentoring. Innovative and dedicated to excellence in every project. Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</b></a>.
 </b>
 
 <br>
