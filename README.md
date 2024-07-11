@@ -3,13 +3,21 @@
 
 [![Cover](https://i.imgur.com/x3FW8OJ.png)](https://github.com/emmanpbarrameda/)
 
-Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />! I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of desktop development.
+<p align="center">
+  Quick Links
+    <br/>
+  <a href="https://github.com/emmanpbarrameda?tab=repositories">Projects/Repo</a> •
+  <a href="https://emmanpbarrameda.github.io/#about">About Me</a> •
+  <a href="">Certificates</a> •
+  <a href="https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME/blob/main/RESUME/EMMANPBARRAMEDA_RESUME.pdf">Resume</a>
+</p>
 
-My programming journey began when I was just 16 years old as a Minecraft server owner. This experience ignited my interest in programming, and since then, I have been dedicated to studying the Java programming language. During my time at Vicente Madrigal Integrated School as a senior-high student, pursuing the TVL-ICT track, I excelled in Java and was recognized as the <b>"Best ICT Student"</b> upon graduation.
+Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />!
+I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of programming.
 
-Since then, I have embarked on a freelancing journey during the covid-19 lockdown, specializing in the creation of desktop and mobile applications.
+A <b>IT student</b> specializing in <b>backend development</b> with experience in <b>desktop and web development</b>. Initially focused on Java, now developing websites using the <b>LAMP stack with Laravel</b>. Became interested in programming at age 16 and continue learning today. Experienced in leadership, project management, freelancing, and mentoring. Innovative and dedicated to excellence in every project. Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE.</b></a>.
+</b>
 
-Currently, I am a third-year college student pursuing a Bachelor of Science in Information Technology at the University of Rizal System Binangonan. My studies revolve around <b>Object Oriented Programming, Designing, and Web Development</b>.
 <br>
 </br>
 
@@ -73,8 +81,8 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> Things I am Passionate About 
 
-- Desktop Application Development
-- Android Application Development
+- Web-based System Development using LAMP Stack
+- Desktop Application Development using Java or VB.Net
 - Backend Development
 - Graphic Designing
 <br>
