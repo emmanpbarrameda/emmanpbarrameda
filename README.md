@@ -41,22 +41,23 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 
 ##
 
-
 <p align="center"> 
-  Visitor count<br>
+  Visitor count
+  <!-- DETAILD VISITOR STATS HERE:
+  https://yhype.me/github/accounts/emmanpbarrameda/emmanpbarrameda/traffic -->
+  <br>
     <div align="center">
         <img alt="Visitor Stats" 
             src="https://widgetbite.com/stats/emmanpbarrameda"/>  
     </div>
 
-  ![](https://komarev.com/ghpvc/?username=emmanpbarrameda&style=flat-square&label=PROFILE+VIEWS)
-
-  ![](https://hit.yhype.me/github/profile?user_id=67356375)
-
+  <!-- OLD Profile Count SVG
+  <a href="https://emmanpbarrameda.github.io">
+    <img src="https://profile-counter.glitch.me/emmanpbarrameda/count.svg" alt="Profile Count SVG" />
+  </a> -->
 
 </p>
 <br>
-
 
 <p align="center"> 
   Activity Status<br>
