@@ -153,15 +153,15 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Timmoth/Timmoth](https://github.com/Timmoth/Timmoth)<br>
-2. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)<br>
-3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+3. ⬆️ Pushed 2 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+4. ⭐ Starred [Timmoth/Timmoth](https://github.com/Timmoth/Timmoth)<br>
+5. ⭐ Starred [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 11th, 2024, 7:14:23 PM
+Last Updated: Thursday, July 11th, 2024, 8:35:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
