@@ -49,7 +49,10 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
             src="https://widgetbite.com/stats/emmanpbarrameda"/>  
     </div>
 
+  ![](https://komarev.com/ghpvc/?username=emmanpbarrameda&style=flat-square&label=PROFILE+VIEWS)
+
   ![](https://hit.yhype.me/github/profile?user_id=67356375)
+
 
 </p>
 <br>
