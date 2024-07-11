@@ -46,7 +46,7 @@ Currently, I am a third-year college student pursuing a Bachelor of Science in I
   Visitor count<br>
     <div align="center">
         <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<github-username>"/>  
+            src="https://widgetbite.com/stats/emmanpbarrameda"/>  
     </div>
 </p>
 <br>
