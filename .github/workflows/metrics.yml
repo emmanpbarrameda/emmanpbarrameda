@@ -35,5 +35,7 @@ jobs:
           repositories_affiliations: owner,contributor
           plugin_calendar: yes
           plugin_calendar_limit: 2
+          plugin_activity: yes
+          plugin_activity_timestamps: yes
           # plugin_leetcode: yes
           # plugin_leetcode_user: timmoth
