@@ -161,15 +161,15 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Techvisioners/Web2_Final_Project](https://github.com/Techvisioners/Web2_Final_Project)<br>
-2. ⭐ Starred [KnpLabs/snappy](https://github.com/KnpLabs/snappy)<br>
-3. ⭐ Starred [tomatophp/filament-users](https://github.com/tomatophp/filament-users)<br>
-4. ⭐ Starred [tomatophp/filament-settings-hub](https://github.com/tomatophp/filament-settings-hub)<br>
-5. ⬆️ Pushed 2 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+1. ❗️ Opened issue [#88](https://github.com/leandrocfe/filament-apex-charts/issues/88) in [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts)<br>
+2. ⬆️ Pushed 1 commit(s) to [Techvisioners/Web2_Final_Project](https://github.com/Techvisioners/Web2_Final_Project)<br>
+3. ⭐ Starred [KnpLabs/snappy](https://github.com/KnpLabs/snappy)<br>
+4. ⭐ Starred [tomatophp/filament-users](https://github.com/tomatophp/filament-users)<br>
+5. ⭐ Starred [tomatophp/filament-settings-hub](https://github.com/tomatophp/filament-settings-hub)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, July 18th, 2024, 1:15:56 AM
+Last Updated: Thursday, July 18th, 2024, 2:25:07 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
