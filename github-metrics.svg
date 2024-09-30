@@ -3534,18 +3534,13 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">MMCCapstone_Websystem2</span>
-                                <div class="bar" style="width: 74.12%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">93%</span>
+                                <div class="bar" style="width: 75.096%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">94%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">URSB_INTERNSHIP_SYSTEM</span>
-                                <div class="bar" style="width: 4.688000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Capstone_Websystem</span>
-                                <div class="bar" style="width: 1.192%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
                             </div>
                         </div>
                     </section>
@@ -3554,23 +3549,23 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 39.336%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">49%</span>
+                                <div class="bar" style="width: 40.176%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">50%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 24.528%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 24.64%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">31%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Blade Template</span>
-                                <div class="bar" style="width: 9.456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 10.656%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Bash</span>
-                                <div class="bar" style="width: 5.920000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 3.76%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Git Config</span>
@@ -3583,7 +3578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Oct 2024, 00:01:04 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Oct 2024, 00:30:31 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
