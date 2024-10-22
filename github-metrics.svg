@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2380" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2031" class="">
     <defs>
         <style/>
     </defs>
@@ -3377,6 +3377,20 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">ryangjchandler/filament-navigation</span>
+                                    </div>
+                                </div>
+                                <div class="timestamp">22 Oct 2024, 05:04:30</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -3455,105 +3469,6 @@
                                     </div>
                                 </div>
                                 <div class="timestamp">20 Oct 2024, 19:44:37</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 34 commits in
-                                        <span class="repo">Techvisioners/MMCCapstone_Websystem2</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22a98c4</div>
-                                        <div class="message">092424 228AM Global Search Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9b086b5</div>
-                                        <div class="message">092424 Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6574e85</div>
-                                        <div class="message">090524 Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e01194d</div>
-                                        <div class="message">081224 0603PM</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#93cf24a</div>
-                                        <div class="message">080724 0354AM Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5a9e521</div>
-                                        <div class="message">070524 1238AM</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e64ee2a</div>
-                                        <div class="message">080424 0306AM Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d4824f2</div>
-                                        <div class="message">080324 0717AM Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b292524</div>
-                                        <div class="message">080224 0923AM Major Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#22eb5b2</div>
-                                        <div class="message">080124 0709AM Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5bdc137</div>
-                                        <div class="message">073124 0440AM Major Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f33e63</div>
-                                        <div class="message">073024 0740AM Member Panel Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb070e7</div>
-                                        <div class="message">073024 0226AM Improvements on Member Management</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b418fa5</div>
-                                        <div class="message">072924 0253PM Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#90a80a2</div>
-                                        <div class="message">072824 0239AM</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fdbcae4</div>
-                                        <div class="message">072724 0643am</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99da819</div>
-                                        <div class="message">072624 0523AM Major Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cabb54e</div>
-                                        <div class="message">072524 0207AM Basic Improvements</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e5c4e5</div>
-                                        <div class="message">072424 737AM First Update
-
-072424 737AM First Update</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#261f2a0</div>
-                                        <div class="message">Initial commit</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">20 Oct 2024, 19:40:39</div>
                             </section>
                         </div>
                     </section>
@@ -3673,7 +3588,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Oct 2024, 13:43:31 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Oct 2024, 13:52:10 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
