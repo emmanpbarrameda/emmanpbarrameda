@@ -161,15 +161,15 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
-2. ⭐ Starred [pboivin/filament-peek](https://github.com/pboivin/filament-peek)<br>
-3. ⭐ Starred [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates)<br>
-4. ⭐ Starred [openai-php/laravel](https://github.com/openai-php/laravel)<br>
-5. ⭐ Starred [jiten14/jitone-ai](https://github.com/jiten14/jitone-ai)<br>
+1. ⭐ Starred [GuavaCZ/filament-clusters](https://github.com/GuavaCZ/filament-clusters)<br>
+2. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
+3. ⭐ Starred [pboivin/filament-peek](https://github.com/pboivin/filament-peek)<br>
+4. ⭐ Starred [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates)<br>
+5. ⭐ Starred [openai-php/laravel](https://github.com/openai-php/laravel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 22nd, 2024, 3:21:24 PM
+Last Updated: Tuesday, October 22nd, 2024, 4:26:55 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
