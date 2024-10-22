@@ -161,15 +161,15 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [pboivin/filament-peek](https://github.com/pboivin/filament-peek)<br>
-2. ⭐ Starred [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates)<br>
-3. ⭐ Starred [openai-php/laravel](https://github.com/openai-php/laravel)<br>
-4. ⭐ Starred [jiten14/jitone-ai](https://github.com/jiten14/jitone-ai)<br>
-5. ⭐ Starred [zigurous/unity-flappy-bird-tutorial](https://github.com/zigurous/unity-flappy-bird-tutorial)<br>
+1. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
+2. ⭐ Starred [pboivin/filament-peek](https://github.com/pboivin/filament-peek)<br>
+3. ⭐ Starred [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates)<br>
+4. ⭐ Starred [openai-php/laravel](https://github.com/openai-php/laravel)<br>
+5. ⭐ Starred [jiten14/jitone-ai](https://github.com/jiten14/jitone-ai)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 22nd, 2024, 1:19:55 PM
+Last Updated: Tuesday, October 22nd, 2024, 2:29:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
