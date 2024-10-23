@@ -161,15 +161,15 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GuavaCZ/filament-clusters](https://github.com/GuavaCZ/filament-clusters)<br>
-2. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
-3. ⭐ Starred [pboivin/filament-peek](https://github.com/pboivin/filament-peek)<br>
-4. ⭐ Starred [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates)<br>
-5. ⭐ Starred [openai-php/laravel](https://github.com/openai-php/laravel)<br>
+1. ⭐ Starred [basement-chat/basement-chat](https://github.com/basement-chat/basement-chat)<br>
+2. ⭐ Starred [GuavaCZ/filament-clusters](https://github.com/GuavaCZ/filament-clusters)<br>
+3. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
+4. ⭐ Starred [pboivin/filament-peek](https://github.com/pboivin/filament-peek)<br>
+5. ⭐ Starred [visualbuilder/email-templates](https://github.com/visualbuilder/email-templates)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 23rd, 2024, 10:19:10 PM
+Last Updated: Wednesday, October 23rd, 2024, 11:22:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
