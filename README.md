@@ -161,15 +161,15 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [bennyluk/Sienna-Accessibility-Widget](https://github.com/bennyluk/Sienna-Accessibility-Widget)<br>
-2. 🔱 Forked [emmanpbarrameda/google-gemini](undefined) from [himanshu01052003/google-gemini](https://github.com/himanshu01052003/google-gemini)<br>
-3. ⭐ Starred [himanshu01052003/google-gemini](https://github.com/himanshu01052003/google-gemini)<br>
-4. ⭐ Starred [classiebit/addchat-laravel](https://github.com/classiebit/addchat-laravel)<br>
-5. ⭐ Starred [basement-chat/basement-chat](https://github.com/basement-chat/basement-chat)<br>
+1. ⭐ Starred [GetStream/stream-laravel](https://github.com/GetStream/stream-laravel)<br>
+2. ⭐ Starred [sahusoftcom/youtube-livestream-api](https://github.com/sahusoftcom/youtube-livestream-api)<br>
+3. ⭐ Starred [bennyluk/Sienna-Accessibility-Widget](https://github.com/bennyluk/Sienna-Accessibility-Widget)<br>
+4. 🔱 Forked [emmanpbarrameda/google-gemini](undefined) from [himanshu01052003/google-gemini](https://github.com/himanshu01052003/google-gemini)<br>
+5. ⭐ Starred [himanshu01052003/google-gemini](https://github.com/himanshu01052003/google-gemini)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 27th, 2024, 4:26:19 PM
+Last Updated: Sunday, October 27th, 2024, 5:19:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
