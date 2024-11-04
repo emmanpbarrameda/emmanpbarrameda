@@ -161,15 +161,15 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GetStream/stream-laravel](https://github.com/GetStream/stream-laravel)<br>
-2. ⭐ Starred [sahusoftcom/youtube-livestream-api](https://github.com/sahusoftcom/youtube-livestream-api)<br>
-3. ⭐ Starred [bennyluk/Sienna-Accessibility-Widget](https://github.com/bennyluk/Sienna-Accessibility-Widget)<br>
-4. 🔱 Forked [emmanpbarrameda/google-gemini](undefined) from [himanshu01052003/google-gemini](https://github.com/himanshu01052003/google-gemini)<br>
-5. ⭐ Starred [himanshu01052003/google-gemini](https://github.com/himanshu01052003/google-gemini)<br>
+1. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
+2. ⭐ Starred [GetStream/stream-laravel](https://github.com/GetStream/stream-laravel)<br>
+3. ⭐ Starred [sahusoftcom/youtube-livestream-api](https://github.com/sahusoftcom/youtube-livestream-api)<br>
+4. ⭐ Starred [bennyluk/Sienna-Accessibility-Widget](https://github.com/bennyluk/Sienna-Accessibility-Widget)<br>
+5. 🔱 Forked [emmanpbarrameda/google-gemini](undefined) from [himanshu01052003/google-gemini](https://github.com/himanshu01052003/google-gemini)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 5th, 2024, 5:18:32 AM
+Last Updated: Tuesday, November 5th, 2024, 6:18:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
