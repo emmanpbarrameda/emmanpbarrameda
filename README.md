@@ -161,15 +161,15 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [go2ismail/ASP.NET-FullStack-BackEnd-FrontEnd](https://github.com/go2ismail/ASP.NET-FullStack-BackEnd-FrontEnd)<br>
-2. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
-3. ⭐ Starred [GetStream/stream-laravel](https://github.com/GetStream/stream-laravel)<br>
-4. ⭐ Starred [sahusoftcom/youtube-livestream-api](https://github.com/sahusoftcom/youtube-livestream-api)<br>
-5. ⭐ Starred [bennyluk/Sienna-Accessibility-Widget](https://github.com/bennyluk/Sienna-Accessibility-Widget)<br>
+1. ⭐ Starred [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console)<br>
+2. ⭐ Starred [go2ismail/ASP.NET-FullStack-BackEnd-FrontEnd](https://github.com/go2ismail/ASP.NET-FullStack-BackEnd-FrontEnd)<br>
+3. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
+4. ⭐ Starred [GetStream/stream-laravel](https://github.com/GetStream/stream-laravel)<br>
+5. ⭐ Starred [sahusoftcom/youtube-livestream-api](https://github.com/sahusoftcom/youtube-livestream-api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 25th, 2024, 9:30:18 PM
+Last Updated: Monday, November 25th, 2024, 10:20:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
