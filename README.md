@@ -164,10 +164,12 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 1. ⭐ Starred [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console)<br>
 2. ⭐ Starred [go2ismail/ASP.NET-FullStack-BackEnd-FrontEnd](https://github.com/go2ismail/ASP.NET-FullStack-BackEnd-FrontEnd)<br>
 3. ⭐ Starred [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com)<br>
+4. ⭐ Starred [GetStream/stream-laravel](https://github.com/GetStream/stream-laravel)<br>
+5. ⭐ Starred [sahusoftcom/youtube-livestream-api](https://github.com/sahusoftcom/youtube-livestream-api)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 4th, 2024, 10:21:26 PM
+Last Updated: Wednesday, December 4th, 2024, 11:24:10 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
