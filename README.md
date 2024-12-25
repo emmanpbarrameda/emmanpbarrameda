@@ -160,15 +160,15 @@ A <b>IT student</b> specializing in <b><u>backend development</u></b> with exper
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)<br>
-2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. 📔 Created new repository [emmanpbarrameda/Unity_2D_GameKit](https://github.com/emmanpbarrameda/Unity_2D_GameKit)<br>
+2. 📔 Created new repository [emmanpbarrameda/mabyfish3](https://github.com/emmanpbarrameda/mabyfish3)<br>
+3. ⬆️ Pushed 2 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+4. ⬆️ Pushed 2 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+5. ⭐ Starred [avgupta456/github-trends](https://github.com/avgupta456/github-trends)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 25th, 2024, 7:16:17 PM
+Last Updated: Wednesday, December 25th, 2024, 8:39:05 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
