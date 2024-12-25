@@ -15,7 +15,7 @@
 Hello world <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />!
 I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of programming.
 
-A <b>IT student</b> specializing in <b>backend development</b> with experience in <b>desktop and web development</b>. Initially focused on Java, now developing websites using the <b>LAMP stack with Laravel</b>. Became interested in programming at age 16 and continue learning today. Experienced in leadership, project management, freelancing, and mentoring. Innovative and dedicated to excellence in every project. Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</b></a>.
+A <b>IT student</b> specializing in <u><b>backend development</b></u> with experience in <b>desktop and web development</b>. Initially focused on Java, now developing websites using the <b>LAMP stack with Laravel</b>. Became interested in programming at age 16 and continue learning today. Experienced in leadership, project management, freelancing, and mentoring. Innovative and dedicated to excellence in every project. Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</b></a>.
 </b>
 
 <br>
@@ -36,7 +36,7 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
     </td>
     <td align="center">
       <p align="center"> <!-- TYPING SVG -->
-      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=Backend+Developer;%3CStudent+Leader;%3CFreelancer;%3CMentor;%3CAspiring+Software+Engineer;%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
+      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=Specializing+in+Backend+Development;%3CStudent+Leader;%3CFreelancer;%3CMentor;%3CAspiring+Software+Developer;%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
       </p>
       <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>. It provides a comprehensive view of my abilities and achievements. Thank you!</h3>
       <br />
@@ -79,12 +79,11 @@ A <b>IT student</b> specializing in <b>backend development</b> with experience i
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> Things I am Passionate About 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="45" height="45" /> My Specialization
 
-- Web-based System Development using LAMP Stack
-- Desktop Application Development using Java or VB.Net
+- Web-based System Development using LAMP/TALL Stack
 - Backend Development
-- Graphic Designing
+- Desktop Application Development using Java or VB.Net
 <br>
 
 
@@ -226,4 +225,4 @@ Last Updated: Wednesday, December 25th, 2024, 6:20:43 PM
 <p align="center">
 
   
-<p align="center">Copyright © 2024 emmanpbarrameda.<br>All rights reserved.</p
+<p align="center">Copyright © 2025 emmanpbarrameda.<br>All rights reserved.</p
