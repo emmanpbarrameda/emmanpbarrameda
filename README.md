@@ -160,7 +160,7 @@ A <b>IT student</b> specializing in <b><u>backend development</u></b> with exper
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
 2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
@@ -168,7 +168,7 @@ A <b>IT student</b> specializing in <b><u>backend development</u></b> with exper
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 27th, 2024, 6:18:31 AM
+Last Updated: Friday, December 27th, 2024, 7:19:00 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
