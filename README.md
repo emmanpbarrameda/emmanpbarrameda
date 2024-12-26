@@ -162,13 +162,13 @@ A <b>IT student</b> specializing in <b><u>backend development</u></b> with exper
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-3. ⭐ Starred [chiiya/filament-access-control](https://github.com/chiiya/filament-access-control)<br>
-4. ⭐ Starred [TappNetwork/filament-auditing](https://github.com/TappNetwork/filament-auditing)<br>
-5. 📔 Created new repository [emmanpbarrameda/Unity_2D_GameKit](https://github.com/emmanpbarrameda/Unity_2D_GameKit)<br>
+3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 26th, 2024, 8:40:07 PM
+Last Updated: Thursday, December 26th, 2024, 9:24:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
