@@ -160,15 +160,15 @@ A <b>IT student</b> specializing in <b><u>backend development</u></b> with exper
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [chiiya/filament-access-control](https://github.com/chiiya/filament-access-control)<br>
-2. ⭐ Starred [TappNetwork/filament-auditing](https://github.com/TappNetwork/filament-auditing)<br>
-3. 📔 Created new repository [emmanpbarrameda/Unity_2D_GameKit](https://github.com/emmanpbarrameda/Unity_2D_GameKit)<br>
-4. 📔 Created new repository [emmanpbarrameda/mabyfish3](https://github.com/emmanpbarrameda/mabyfish3)<br>
-5. ⬆️ Pushed 2 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+3. ⭐ Starred [chiiya/filament-access-control](https://github.com/chiiya/filament-access-control)<br>
+4. ⭐ Starred [TappNetwork/filament-auditing](https://github.com/TappNetwork/filament-auditing)<br>
+5. 📔 Created new repository [emmanpbarrameda/Unity_2D_GameKit](https://github.com/emmanpbarrameda/Unity_2D_GameKit)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 26th, 2024, 7:16:33 PM
+Last Updated: Thursday, December 26th, 2024, 8:40:07 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
