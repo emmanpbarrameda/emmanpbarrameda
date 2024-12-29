@@ -160,15 +160,15 @@ A <b>IT student</b> specializing in <b><u>backend development</u></b> with exper
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PseudoDevs/IamGhost](https://github.com/PseudoDevs/IamGhost)<br>
-2. ⭐ Starred [miksme/commit-spam](https://github.com/miksme/commit-spam)<br>
-3. ⭐ Starred [glenntenorio/laravel-ilovepdf](https://github.com/glenntenorio/laravel-ilovepdf)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. 🔱 Forked [emmanpbarrameda/GitHell](https://github.com/emmanpbarrameda/GitHell) from [0x3EF8/GitHell](https://github.com/0x3EF8/GitHell)<br>
+2. ⭐ Starred [0x3EF8/GitHell](https://github.com/0x3EF8/GitHell)<br>
+3. ⭐ Starred [anshita005/My-Portfolio](https://github.com/anshita005/My-Portfolio)<br>
+4. ⭐ Starred [PseudoDevs/IamGhost](https://github.com/PseudoDevs/IamGhost)<br>
+5. ⭐ Starred [miksme/commit-spam](https://github.com/miksme/commit-spam)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 29th, 2024, 5:18:39 PM
+Last Updated: Sunday, December 29th, 2024, 6:19:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
