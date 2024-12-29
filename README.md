@@ -1,7 +1,7 @@
 
 #
 
-[![Cover](https://i.imgur.com/x3FW8OJ.png)](https://github.com/emmanpbarrameda/)
+[![Cover](https://i.imgur.com/HXUaVAA.png)](https://github.com/emmanpbarrameda/)
 
 <p align="center">
   Quick Links
