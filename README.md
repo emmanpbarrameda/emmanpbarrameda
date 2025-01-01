@@ -86,11 +86,10 @@ A <b>IT student</b> specializing in <b><u>backend development</u></b> with exper
 <br>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Technologist" width="45" height="45" /> Explore My Projects
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Backpack.png" alt="Technologist" width="45" height="45" /> Explore My Projects
 
 - [github.com/emmanpbarrameda/repositories](https://github.com/emmanpbarrameda?tab=repositories)
-<br>
-
+<br> -->
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="40"> Stats
