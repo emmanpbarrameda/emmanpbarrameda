@@ -17,7 +17,7 @@
     <img alt="CodersRank" src="https://img.shields.io/badge/BACKEND-100000?style=for-the-badge&logo=CodersRank&logoColor=white&labelColor=0044FF&color=0044FF"/>
   </a>
 
-  <a href="https://wakatime.com/@8ce1937b-ccfb-494d-b248-6dfa8e6eded1" target="_blank" style="display: inline-block;">
+  <a href="https://wakatime.com/@emmanpbarrameda" target="_blank" style="display: inline-block;">
     <img src="https://wakatime.com/badge/user/8ce1937b-ccfb-494d-b248-6dfa8e6eded1.svg?style=for-the-badge" alt="I am coding"/>
   </a>
 </p>
@@ -191,7 +191,7 @@
 
 <!--RECENT_ACTIVITY:last_update-->
 
-<!--RECENT_ACTIVITY:last_update_end-->
+<!--RECENT_ACTIVITY:last_update_end-->s
 
 <br>
 
