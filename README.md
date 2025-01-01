@@ -142,7 +142,7 @@
 <!-- SUMMARY 3 -->
 
 <details>
-    <summary>&#127942 <b>Other Stats</b></summary><br/>
+    <summary>📈 <b>Other Stats</b></summary><br/>
 
 <p align="center"> 
   Visitor Stats
