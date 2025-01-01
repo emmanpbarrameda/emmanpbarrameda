@@ -4,6 +4,10 @@
 [![Cover](https://i.imgur.com/HXUaVAA.png)](https://github.com/emmanpbarrameda/)
 
 <p align="center">
+  <img src="https://wakatime.com/badge/user/8ce1937b-ccfb-494d-b248-6dfa8e6eded1.svg?label=CODING+HOURS?style=for-the-badge" alt="I am coding"/></a>
+</p>
+
+<p align="center">
   Quick Links
     <br/>
   <a href="https://github.com/emmanpbarrameda?tab=repositories">Projects/Repo</a> •
