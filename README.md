@@ -31,6 +31,7 @@
   <a href="https://emmanpbarrameda.github.io/#certificates">Certificates</a> •
   <a href="https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME/blob/main/RESUME/EMMANPBARRAMEDA_RESUME.pdf">Resume</a>
 </p>
+<br>
 
 <p align="center">
   <!-- Short intro -->
@@ -42,7 +43,6 @@
 <p align="center">
   A <b>IT student</b> specializing in <b><u>backend development</u></b> with experience in <b>web and desktop application/system development</b>. Initially focused on Java, now developing websites using the <b>LAMP/TALL stack with Laravel</b>. Became interested in programming at age 16 and continue learning today. Experienced in leadership, project management, freelancing, and mentoring. Innovative and dedicated to excellence in every development. Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</b></a>.
 </p>
-<br>
 <br>
 
 <!-- Social -->
