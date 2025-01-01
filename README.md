@@ -46,28 +46,25 @@
 <br>
 
 <!-- Social -->
-<!-- Portfolio Section -->
-<table width="100%" align="center" style="border-collapse: separate; border-spacing: 20px;">
+<table width="100%" align="center">
   <tr>
-    <td align="center" style="background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 20px;">
-      <a href="https://emmanpbarrameda.github.io" style="text-decoration: none;">
-        <strong style="font-size: 1.2em; color: #58a6ff;">Visit My Portfolio</strong>
-        <br /><br />
-        <img src="https://avatars.githubusercontent.com/u/67356375?v=4" alt="Profile" width="180" style="border-radius: 50%; border: 3px solid #58a6ff;" />
+    <td align="center">
+      <a href="https://emmanpbarrameda.github.io">
+        <strong>Visit My Portfolio</strong>
+        <br />
+        <img src="https://avatars.githubusercontent.com/u/67356375?v=4" alt="Profile Image" width="180" style="border-radius: 50%;" />
       </a>
-      <br /><br />
-      <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank" style="color: #58a6ff;">my portfolio</a> to learn more about me!</p>
-      <a href="https://github.com/emmanpbarrameda" target="_blank">
-        <img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=for-the-badge&label=Follow%20on%20GitHub&maxAge=2592000" alt="GitHub Followers" />
-      </a>
+      <br />
+      <p>Check out <a href="https://emmanpbarrameda.github.io" target="_blank">my portfolio</a> to learn more about me!</p>
+      <a href="https://github.com/emmanpbarrameda" target="_blank"><img src="https://img.shields.io/github/followers/emmanpbarrameda.svg?style=for-the-badge&label=Follow%20on%20GitHub&maxAge=2592000" alt="GitHub Followers" /></a>
     </td>
-    <td align="center" style="background: rgba(255, 255, 255, 0.05); border-radius: 10px; padding: 20px;">
-      <p align="center">
-        <a href="https://github.com/emmanpbarrameda/">
-          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=Specializing+in+Backend+Development;%3CStudent+Leader;%3CFreelancer;%3CMentor;%3CAspiring+Software+Developer;%3Cemmanpbarrameda.github.io" alt="Typing SVG" style="width: 100%; max-width: 700px;" />
-        </a>
+    <td align="center">
+      <p align="center"> <!-- TYPING SVG -->
+      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=Specializing+in+Backend+Development;%3CStudent+Leader;%3CFreelancer;%3CMentor;%3CAspiring+Software+Developer;%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
       </p>
-      <h3 style="color: #8b949e; font-weight: 500;">Visit my portfolio at <a href="https://emmanpbarrameda.github.io" style="color: #58a6ff;">emmanpbarrameda.github.io</a></h3>
+      <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>. It provides a comprehensive view of my abilities and achievements. Thank you!</h3>
+      <br />
+      <br />
     </td>
   </tr>
 </table>
