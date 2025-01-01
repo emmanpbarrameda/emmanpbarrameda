@@ -3,10 +3,26 @@
 
 [![Cover](https://i.imgur.com/HXUaVAA.png)](https://github.com/emmanpbarrameda/)
 
+<!-- GitHub Top Icons Badge -->
 <p align="center">
-  <img src="https://wakatime.com/badge/user/8ce1937b-ccfb-494d-b248-6dfa8e6eded1.svg?label=CODING+HOURS?style=for-the-badge" alt="I am coding"/></a>
+  <a href="https://github.com/shivamkapasia0" target="_blank" style="display: inline-block;">
+    <img alt="BookStack" src="https://img.shields.io/badge/STUDENT-100000?style=for-the-badge&logo=BookStack&logoColor=white&labelColor=FF4D00&color=FF4D00"/>
+  </a>
+
+  <a href="https://github.com/shivamkapasia0" target="_blank" style="display: inline-block;">
+    <img alt="JitPack" src="https://img.shields.io/badge/FREELANCER-100000?style=for-the-badge&logo=JitPack&logoColor=white&labelColor=8D00FF&color=8D00FF"/>
+  </a>
+
+  <a href="https://github.com/shivamkapasia0" target="_blank" style="display: inline-block;">
+    <img alt="CodersRank" src="https://img.shields.io/badge/BACKEND-100000?style=for-the-badge&logo=CodersRank&logoColor=white&labelColor=0044FF&color=0044FF"/>
+  </a>
+
+  <a href="https://wakatime.com/@8ce1937b-ccfb-494d-b248-6dfa8e6eded1" target="_blank" style="display: inline-block;">
+    <img src="https://wakatime.com/badge/user/8ce1937b-ccfb-494d-b248-6dfa8e6eded1.svg?style=for-the-badge" alt="I am coding"/>
+  </a>
 </p>
 
+<!-- Quick Links -->
 <p align="center">
   Quick Links
     <br/>
