@@ -187,15 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [marshmallow-packages/filament-fullcalendar](https://github.com/marshmallow-packages/filament-fullcalendar)<br>
-2. ⭐ Starred [Lissy93/dashy](https://github.com/Lissy93/dashy)<br>
-3. ⭐ Starred [freetonik/textpod](https://github.com/freetonik/textpod)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-5. ⭐ Starred [is-a-dev/register](https://github.com/is-a-dev/register)<br>
+1. ⭐ Starred [EkiZR/Portofolio_V5](https://github.com/EkiZR/Portofolio_V5)<br>
+2. ⭐ Starred [marshmallow-packages/filament-fullcalendar](https://github.com/marshmallow-packages/filament-fullcalendar)<br>
+3. ⭐ Starred [Lissy93/dashy](https://github.com/Lissy93/dashy)<br>
+4. ⭐ Starred [freetonik/textpod](https://github.com/freetonik/textpod)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 27th, 2025, 6:22:14 PM
+Last Updated: Monday, January 27th, 2025, 7:17:04 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
