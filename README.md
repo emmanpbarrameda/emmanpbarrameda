@@ -187,15 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [frappe/frappe](https://github.com/frappe/frappe)<br>
-2. ⭐ Starred [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)<br>
-3. ⭐ Starred [EkiZR/Portofolio_V5](https://github.com/EkiZR/Portofolio_V5)<br>
-4. ⭐ Starred [marshmallow-packages/filament-fullcalendar](https://github.com/marshmallow-packages/filament-fullcalendar)<br>
-5. ⭐ Starred [Lissy93/dashy](https://github.com/Lissy93/dashy)<br>
+1. ⭐ Starred [HotpotDesign/Game-Assets-And-Resources](https://github.com/HotpotDesign/Game-Assets-And-Resources)<br>
+2. ⭐ Starred [frappe/frappe](https://github.com/frappe/frappe)<br>
+3. ⭐ Starred [KenneyNL/Adobe-Alternatives](https://github.com/KenneyNL/Adobe-Alternatives)<br>
+4. ⭐ Starred [EkiZR/Portofolio_V5](https://github.com/EkiZR/Portofolio_V5)<br>
+5. ⭐ Starred [marshmallow-packages/filament-fullcalendar](https://github.com/marshmallow-packages/filament-fullcalendar)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 10th, 2025, 9:26:32 PM
+Last Updated: Monday, February 10th, 2025, 10:19:41 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
