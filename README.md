@@ -187,15 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor)<br>
-2. ⭐ Starred [garyblankenship/awesome-php-ai](https://github.com/garyblankenship/awesome-php-ai)<br>
-3. ⭐ Starred [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php)<br>
-4. ⭐ Starred [deepseek-php/deepseek-laravel](https://github.com/deepseek-php/deepseek-laravel)<br>
-5. ⭐ Starred [deepseek-php/deepseek-php-client](https://github.com/deepseek-php/deepseek-php-client)<br>
+1. ⭐ Starred [gemini-api-php/client](https://github.com/gemini-api-php/client)<br>
+2. ⭐ Starred [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor)<br>
+3. ⭐ Starred [garyblankenship/awesome-php-ai](https://github.com/garyblankenship/awesome-php-ai)<br>
+4. ⭐ Starred [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php)<br>
+5. ⭐ Starred [deepseek-php/deepseek-laravel](https://github.com/deepseek-php/deepseek-laravel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 22nd, 2025, 6:21:47 PM
+Last Updated: Saturday, March 22nd, 2025, 7:17:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
