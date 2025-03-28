@@ -189,13 +189,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [gemini-api-php/client](https://github.com/gemini-api-php/client)<br>
 2. ⭐ Starred [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor)<br>
-3. ⭐ Starred [garyblankenship/awesome-php-ai](https://github.com/garyblankenship/awesome-php-ai)<br>
-4. ⭐ Starred [DeepLcom/deepl-php](https://github.com/DeepLcom/deepl-php)<br>
-5. ⭐ Starred [deepseek-php/deepseek-laravel](https://github.com/deepseek-php/deepseek-laravel)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 28th, 2025, 11:23:55 PM
+Last Updated: Saturday, March 29th, 2025, 12:27:34 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
