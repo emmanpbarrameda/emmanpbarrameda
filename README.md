@@ -187,14 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-3. ⭐ Starred [gemini-api-php/client](https://github.com/gemini-api-php/client)<br>
-4. ⭐ Starred [awcodes/filament-tiptap-editor](https://github.com/awcodes/filament-tiptap-editor)<br>
+1. ⭐ Starred [PrabothCharith/accessibility-plugin](https://github.com/PrabothCharith/accessibility-plugin)<br>
+2. ⭐ Starred [VidhuraNeethika/Accessibility-Plugin](https://github.com/VidhuraNeethika/Accessibility-Plugin)<br>
+3. ⭐ Starred [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog)<br>
+4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 5th, 2025, 9:46:01 AM
+Last Updated: Saturday, April 5th, 2025, 10:58:57 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
