@@ -187,15 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-2. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
-3. ⭐ Starred [Jipok/website-to-apk](https://github.com/Jipok/website-to-apk)<br>
-4. ⭐ Starred [awcodes/mason](https://github.com/awcodes/mason)<br>
-5. ⭐ Starred [cms-multi/filament-clear-cache](https://github.com/cms-multi/filament-clear-cache)<br>
+1. ⭐ Starred [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health)<br>
+2. ⭐ Starred [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor)<br>
+3. ⭐ Starred [Eazybright/status-page](https://github.com/Eazybright/status-page)<br>
+4. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
+5. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 10th, 2025, 7:18:30 PM
+Last Updated: Saturday, May 10th, 2025, 8:41:27 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
