@@ -191,11 +191,10 @@
 2. ⭐ Starred [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor)<br>
 3. ⭐ Starred [Eazybright/status-page](https://github.com/Eazybright/status-page)<br>
 4. ⭐ Starred [cline/cline](https://github.com/cline/cline)<br>
-5. ⭐ Starred [ryangjchandler/filament-navigation](https://github.com/ryangjchandler/filament-navigation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 5th, 2025, 2:35:21 PM
+Last Updated: Thursday, June 5th, 2025, 3:23:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
