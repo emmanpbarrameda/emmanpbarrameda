@@ -189,12 +189,10 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
 2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-3. ⭐ Starred [shuvroroy/filament-spatie-laravel-health](https://github.com/shuvroroy/filament-spatie-laravel-health)<br>
-4. ⭐ Starred [spatie/laravel-uptime-monitor](https://github.com/spatie/laravel-uptime-monitor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 9th, 2025, 1:24:54 PM
+Last Updated: Monday, June 9th, 2025, 2:36:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
