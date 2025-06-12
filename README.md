@@ -187,15 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)<br>
-2. ⭐ Starred [yusborinchit/portfolio-2024](https://github.com/yusborinchit/portfolio-2024)<br>
-3. ⭐ Starred [yusborinchit/portfolio-2025](https://github.com/yusborinchit/portfolio-2025)<br>
-4. ⭐ Starred [yolocat-dev/portfolio](https://github.com/yolocat-dev/portfolio)<br>
-5. ⭐ Starred [Yuteoctober/wins95Portfolio](https://github.com/Yuteoctober/wins95Portfolio)<br>
+1. ⭐ Starred [itsnitinr/vscode-portfolio](https://github.com/itsnitinr/vscode-portfolio)<br>
+2. ⭐ Starred [andrijaweb/portfolio-website](https://github.com/andrijaweb/portfolio-website)<br>
+3. ⭐ Starred [sahilverma-dev/sahilverma-portfolio](https://github.com/sahilverma-dev/sahilverma-portfolio)<br>
+4. ⭐ Starred [PuruVJ/macos-web](https://github.com/PuruVJ/macos-web)<br>
+5. ⭐ Starred [yusborinchit/portfolio-2024](https://github.com/yusborinchit/portfolio-2024)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 10:24:09 PM
+Last Updated: Thursday, June 12th, 2025, 11:26:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
