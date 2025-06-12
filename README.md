@@ -187,13 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vish4395/laravel-file-viewer](https://github.com/vish4395/laravel-file-viewer)<br>
-2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
+1. ⭐ Starred [dlarroder/dalelarroder](https://github.com/dlarroder/dalelarroder)<br>
+2. ⭐ Starred [ChiragChrg/Portfolio](https://github.com/ChiragChrg/Portfolio)<br>
+3. ⭐ Starred [emmabostian/developer-portfolios](https://github.com/emmabostian/developer-portfolios)<br>
+4. ⭐ Starred [Tajmirul/portfolio-2.0](https://github.com/Tajmirul/portfolio-2.0)<br>
+5. ⭐ Starred [vish4395/laravel-file-viewer](https://github.com/vish4395/laravel-file-viewer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 12th, 2025, 8:49:56 PM
+Last Updated: Thursday, June 12th, 2025, 9:35:45 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
