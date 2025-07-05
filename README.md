@@ -187,15 +187,15 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ⭐ Starred [IlhamGhaza/laravel-attendance-lab](https://github.com/IlhamGhaza/laravel-attendance-lab)<br>
+2. ⭐ Starred [freearhey/laravel-face-detection](https://github.com/freearhey/laravel-face-detection)<br>
 3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-5. ⭐ Starred [The-Cool-Coders/Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 5th, 2025, 11:22:34 PM
+Last Updated: Sunday, July 6th, 2025, 12:27:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
