@@ -41,7 +41,12 @@
 </p>
 
 <p align="center">
-  A <b>Graduating IT student</b> specializing in <b><u>backend development</u></b> with experience in <b>web and desktop application/system development</b>. Initially focused on Java, now developing websites using the <b>LAMP/TALL stack with Laravel</b>. Became interested in programming at age 16 and continue learning today. Experienced in leadership, project management, freelancing, and mentoring. Innovative and dedicated to excellence in every development. Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</b></a>.
+👋 Hello world! I'm Emmanuel 'Emman' P. Barrameda, 24 years old from the Philippines.
+Recently IT graduate from the University of Rizal System - Binangonan. I specialize in back-end development, especially using PHP, Laravel, FilamentPHP and Symfony. I started programming when I was 16 and have over 3 years of experience in web development and 4 years in desktop development using Java.
+
+I’ve handled both academic and freelance projects, and I enjoy learning, exploring and building useful systems. I’ve also taken leadership roles, including being the organization president on our university and also as a project manager and lead developer of our capstone project, which was awarded Best Software Developmental Study.
+<br>
+Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</b></a>.
 </p>
 <br>
 
