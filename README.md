@@ -151,8 +151,7 @@
   https://yhype.me/github/accounts/emmanpbarrameda/emmanpbarrameda/traffic -->
   <br>
     <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/emmanpbarrameda"/>  
+      <a href="https://u8views.com/github/emmanpbarrameda"><img src="https://u8views.com/api/v1/github/profiles/67356375/views/day-week-month-total-count.svg"></a>
     </div>
 
   <!-- OLD Profile Count SVG
