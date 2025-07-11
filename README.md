@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [enjidev/enji.dev](https://github.com/enjidev/enji.dev)<br>
-2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+2. ⭐ Starred [enjidev/enji.dev](https://github.com/enjidev/enji.dev)<br>
 3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
 4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
-5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 12th, 2025, 4:27:00 AM
+Last Updated: Saturday, July 12th, 2025, 5:23:11 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
