@@ -6,7 +6,7 @@
 <!-- GitHub Top Icons Badge -->
 <p align="center">
   <a href="https://github.com/emmanpbarrameda" target="_blank" style="display: inline-block;">
-    <img alt="BookStack" src="https://img.shields.io/badge/STUDENT-100000?style=for-the-badge&logo=BookStack&logoColor=white&labelColor=FF4D00&color=FF4D00"/>
+    <img alt="BookStack" src="https://img.shields.io/badge/IT_GRADUATE-100000?style=for-the-badge&logo=BookStack&logoColor=white&labelColor=FF4D00&color=FF4D00"/>
   </a>
 
   <a href="https://github.com/emmanpbarrameda" target="_blank" style="display: inline-block;">
@@ -27,27 +27,23 @@
   Quick Links
     <br/>
   <a href="https://github.com/emmanpbarrameda?tab=repositories">💼 Projects/Repo</a> •
-  <a href="https://emmanpbarrameda.github.io/#about">👨‍💻 About Me</a> •
+  <a href="https://emmanpbarrameda.github.io/#about-me">👨‍💻 About Me</a> •
   <a href="https://emmanpbarrameda.github.io/#certificates">🏆 Certificates</a> •
-  <a href="https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME/blob/main/RESUME/EMMANPBARRAMEDA_RESUME.pdf">📄 Resume</a>
+  <a href="https://emmanpbarrameda.github.io/resume">📄 Resume</a>
 </p>
 <br>
 
 <p align="center">
-  <!-- Short intro -->
-  Hello world!
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />
-  <br>I'm <b>Emmanuel P. Barrameda</b> from the Philippines, a passionate individual who finds joy in creating and exploring the world of programming.
-</p>
-
-<p align="center">
-👋 Hello world! I'm Emmanuel 'Emman' P. Barrameda, 24 years old from the Philippines.
-Recently IT graduate from the University of Rizal System - Binangonan. I specialize in back-end development, especially using PHP, Laravel, FilamentPHP and Symfony. I started programming when I was 16 and have over 3 years of experience in web development and 4 years in desktop development using Java.
-
-I’ve handled both academic and freelance projects, and I enjoy learning, exploring and building useful systems. I’ve also taken leadership roles, including being the organization president on our university and also as a project manager and lead developer of our capstone project, which was awarded Best Software Developmental Study.
+<!-- Short intro -->
+Hello world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />
 <br>
-Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</b></a>.
+I'm <strong>Emmanuel "Emman" P. Barrameda</strong>, a 24-year-old IT graduate from the University of Rizal System – Binangonan, Philippines <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ph.png" alt="Philippines" title="Philippines" width="16" height="12">
+<br><br>
+I specialize in back-end development using <strong>PHP, Laravel, FilamentPHP,</strong> and <strong>Symfony</strong>. I started coding at 16 and have since gained over 3 years of experience in web development, along with 4 years in desktop development using <strong>Java</strong>.
+<br><br>
+I’ve handled both academic and freelance projects, and I enjoy learning, exploring and building useful web-based systems. Beyond development, I’ve taken on leadership roles, including serving as our university organization's president, and as project manager and lead developer for our capstone project, which was awarded as the <strong>Best Software Developmental Study</strong> at our University. <br>👉 <a href="https://emmanpbarrameda.github.io/#about-me"><strong>Read my full story here!</strong></a><br>
 </p>
+<br>
 <br>
 
 <!-- Social -->
@@ -65,9 +61,9 @@ Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</
     </td>
     <td align="center">
       <p align="center"> <!-- TYPING SVG -->
-      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=Specializing+in+Backend+Development;%3CStudent+Leader;%3CFreelancer;%3CMentor;%3CAspiring+Software+Developer;%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
+      <a href="https://github.com/emmanpbarrameda/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=40&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=80&separator=%3C&lines=Specializing+in+Backend+Development;%3CFreelancer;%3CMentor;%3CAspiring+Software+Developer;%3Cemmanpbarrameda.github.io" alt="Typing SVG" /></a>
       </p>
-      <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>. It provides a comprehensive view of my abilities and achievements. Thank you!</h3>
+      <h3>Please consider visiting my portfolio at <a href="https://emmanpbarrameda.github.io">https://emmanpbarrameda.github.io</a>.<br>It provides a comprehensive view of my projects. Thank you!</h3>
       <br />
       <br />
     </td>
@@ -81,7 +77,7 @@ Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</
 
 - **Backend Development** with LAMP/TALL Stack & Laravel
 - **Desktop Applications** using Java & VB.Net
-- **Web Systems Development**
+- **Web-based Systems Development**
 - **Leadership & Mentoring**
 <br>
 
@@ -105,7 +101,6 @@ Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" width="40"> Stats
 
 <!-- SUMMARY 1 -->
-
 <details>
     <summary><b>📊 GitHub Stats</b></summary><br/>
 
@@ -133,7 +128,6 @@ Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</
 </details>
 
 <!-- SUMMARY 2 -->
-
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
@@ -146,7 +140,6 @@ Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</
 </details>
 
 <!-- SUMMARY 3 -->
-
 <details>
     <summary>📈 <b>Other Stats</b></summary><br/>
 
@@ -158,23 +151,8 @@ Read my whole story <a href="https://emmanpbarrameda.github.io/#about"><b>HERE</
     <div align="center">
       <a href="https://u8views.com/github/emmanpbarrameda"><img src="https://u8views.com/api/v1/github/profiles/67356375/views/day-week-month-total-count.svg"></a>
     </div>
-
-  <!-- OLD Profile Count SVG
-  <a href="https://emmanpbarrameda.github.io">
-    <img src="https://profile-counter.glitch.me/emmanpbarrameda/count.svg" alt="Profile Count SVG" />
-  </a> -->
-
 </p>
 <br>
-
-<!-- Discord Status | https://discord.c99.nl/ -->
-<!-- <p align="center"> 
-  Activity Status<br>
-  <a href="https://emmanpbarrameda.github.io"> 
-    <img src="https://discord.c99.nl/widget/theme-2/262584647509082114.png" alt="Discord Status" />
-  </a>
-</p>
-<br> -->
 
 </details>
 
