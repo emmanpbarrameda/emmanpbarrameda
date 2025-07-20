@@ -3372,7 +3372,7 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 68.272%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="width: 68.28%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 <span class="value">85%</span>
                             </div>
                             <div class="entry">
@@ -3401,7 +3401,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2025, 00:48:37 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2025, 00:59:06 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
