@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [vbartalis/agency-template](https://github.com/vbartalis/agency-template)<br>
-2. ⭐ Starred [immois/astro-zen](https://github.com/immois/astro-zen)<br>
-3. ⭐ Starred [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme)<br>
-4. ⭐ Starred [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti)<br>
-5. ⭐ Starred [majesticooss/mintaka](https://github.com/majesticooss/mintaka)<br>
+1. ⭐ Starred [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv)<br>
+2. ⭐ Starred [vbartalis/agency-template](https://github.com/vbartalis/agency-template)<br>
+3. ⭐ Starred [immois/astro-zen](https://github.com/immois/astro-zen)<br>
+4. ⭐ Starred [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme)<br>
+5. ⭐ Starred [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 21st, 2025, 12:29:07 AM
+Last Updated: Monday, July 21st, 2025, 1:21:05 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
