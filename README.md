@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti)<br>
-2. ⭐ Starred [majesticooss/mintaka](https://github.com/majesticooss/mintaka)<br>
-3. ⭐ Starred [withastro/starlight](https://github.com/withastro/starlight)<br>
-4. ⭐ Starred [surjithctly/astroship](https://github.com/surjithctly/astroship)<br>
-5. ⭐ Starred [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter)<br>
+1. ⭐ Starred [vbartalis/agency-template](https://github.com/vbartalis/agency-template)<br>
+2. ⭐ Starred [immois/astro-zen](https://github.com/immois/astro-zen)<br>
+3. ⭐ Starred [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme)<br>
+4. ⭐ Starred [EveSunMaple/Frosti](https://github.com/EveSunMaple/Frosti)<br>
+5. ⭐ Starred [majesticooss/mintaka](https://github.com/majesticooss/mintaka)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, July 20th, 2025, 4:30:36 PM
+Last Updated: Sunday, July 20th, 2025, 5:24:54 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
