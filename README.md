@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)<br>
-2. ⭐ Starred [harishdurga/laravel-quiz](https://github.com/harishdurga/laravel-quiz)<br>
-3. ⭐ Starred [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv)<br>
-4. ⭐ Starred [vbartalis/agency-template](https://github.com/vbartalis/agency-template)<br>
-5. ⭐ Starred [immois/astro-zen](https://github.com/immois/astro-zen)<br>
+1. ⭐ Starred [kelvinthiongo/wkhtmltopdf](https://github.com/kelvinthiongo/wkhtmltopdf)<br>
+2. ⭐ Starred [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai)<br>
+3. ⭐ Starred [harishdurga/laravel-quiz](https://github.com/harishdurga/laravel-quiz)<br>
+4. ⭐ Starred [xpf0000/FlyEnv](https://github.com/xpf0000/FlyEnv)<br>
+5. ⭐ Starred [vbartalis/agency-template](https://github.com/vbartalis/agency-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, July 26th, 2025, 4:30:47 PM
+Last Updated: Saturday, July 26th, 2025, 5:25:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
