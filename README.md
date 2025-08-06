@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dipeshsukhia/laravel-html-minify](https://github.com/dipeshsukhia/laravel-html-minify)<br>
-2. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/mabyfish3](https://github.com/emmanpbarrameda/mabyfish3)<br>
-3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-4. ⭐ Starred [devychan/react-receipt-slip](https://github.com/devychan/react-receipt-slip)<br>
-5. ⭐ Starred [kelvinthiongo/wkhtmltopdf](https://github.com/kelvinthiongo/wkhtmltopdf)<br>
+1. ⭐ Starred [signifly/laravel-shopify](https://github.com/signifly/laravel-shopify)<br>
+2. ⭐ Starred [Promethys/revive](https://github.com/Promethys/revive)<br>
+3. ⭐ Starred [dipeshsukhia/laravel-html-minify](https://github.com/dipeshsukhia/laravel-html-minify)<br>
+4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/mabyfish3](https://github.com/emmanpbarrameda/mabyfish3)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 6th, 2025, 1:34:27 PM
+Last Updated: Wednesday, August 6th, 2025, 2:40:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
