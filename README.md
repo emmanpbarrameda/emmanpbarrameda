@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dotswan/filament-grapesjs-v3](https://github.com/dotswan/filament-grapesjs-v3)<br>
-2. ⭐ Starred [andreasremdt/simple-translator](https://github.com/andreasremdt/simple-translator)<br>
-3. ⭐ Starred [signifly/laravel-shopify](https://github.com/signifly/laravel-shopify)<br>
-4. ⭐ Starred [Promethys/revive](https://github.com/Promethys/revive)<br>
-5. ⭐ Starred [dipeshsukhia/laravel-html-minify](https://github.com/dipeshsukhia/laravel-html-minify)<br>
+1. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+2. ⭐ Starred [dotswan/filament-grapesjs-v3](https://github.com/dotswan/filament-grapesjs-v3)<br>
+3. ⭐ Starred [andreasremdt/simple-translator](https://github.com/andreasremdt/simple-translator)<br>
+4. ⭐ Starred [signifly/laravel-shopify](https://github.com/signifly/laravel-shopify)<br>
+5. ⭐ Starred [Promethys/revive](https://github.com/Promethys/revive)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 15th, 2025, 4:32:21 PM
+Last Updated: Friday, August 15th, 2025, 5:26:23 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
