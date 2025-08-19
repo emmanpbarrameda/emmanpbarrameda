@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel)<br>
-2. ⭐ Starred [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast)<br>
-3. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
-4. ⭐ Starred [dotswan/filament-grapesjs-v3](https://github.com/dotswan/filament-grapesjs-v3)<br>
-5. ⭐ Starred [andreasremdt/simple-translator](https://github.com/andreasremdt/simple-translator)<br>
+1. ⭐ Starred [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl)<br>
+2. ⭐ Starred [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel)<br>
+3. ⭐ Starred [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast)<br>
+4. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+5. ⭐ Starred [dotswan/filament-grapesjs-v3](https://github.com/dotswan/filament-grapesjs-v3)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 19th, 2025, 9:33:14 PM
+Last Updated: Tuesday, August 19th, 2025, 10:23:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
