@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#13726](https://github.com/simple-icons/simple-icons/issues/13726) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
-2. ⭐ Starred [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl)<br>
-3. ⭐ Starred [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel)<br>
-4. ⭐ Starred [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast)<br>
-5. ⭐ Starred [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)<br>
+1. ⭐ Starred [pryley/star-rating.js](https://github.com/pryley/star-rating.js)<br>
+2. ❗️ Opened issue [#13726](https://github.com/simple-icons/simple-icons/issues/13726) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+3. ⭐ Starred [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl)<br>
+4. ⭐ Starred [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel)<br>
+5. ⭐ Starred [mearashadowfax/ScrewFast](https://github.com/mearashadowfax/ScrewFast)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 22nd, 2025, 1:20:29 AM
+Last Updated: Friday, August 22nd, 2025, 2:31:47 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
