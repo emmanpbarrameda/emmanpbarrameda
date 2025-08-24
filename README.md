@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [CodeByZach/pace](https://github.com/CodeByZach/pace)<br>
-2. ⭐ Starred [pryley/star-rating.js](https://github.com/pryley/star-rating.js)<br>
-3. ❗️ Opened issue [#13726](https://github.com/simple-icons/simple-icons/issues/13726) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
-4. ⭐ Starred [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl)<br>
-5. ⭐ Starred [unfolding-io/StarFunnel](https://github.com/unfolding-io/StarFunnel)<br>
+1. ⭐ Starred [Recombo-AI/input-ai](https://github.com/Recombo-AI/input-ai)<br>
+2. ⭐ Starred [CodeByZach/pace](https://github.com/CodeByZach/pace)<br>
+3. ⭐ Starred [pryley/star-rating.js](https://github.com/pryley/star-rating.js)<br>
+4. ❗️ Opened issue [#13726](https://github.com/simple-icons/simple-icons/issues/13726) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)<br>
+5. ⭐ Starred [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 24th, 2025, 7:20:41 AM
+Last Updated: Sunday, August 24th, 2025, 10:03:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
