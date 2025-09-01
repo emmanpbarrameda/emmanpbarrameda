@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#2](https://github.com/emmanpbarrameda/filament-take-picture-field/issues/2) in [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
-2. ✔️ Closed issue [#4](https://github.com/emmanpbarrameda/filament-take-picture-field/issues/4) in [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
-3. 💪 Opened PR [#950](https://github.com/filamentphp/filamentphp.com/pull/950) in [filamentphp/filamentphp.com](https://github.com/filamentphp/filamentphp.com)<br>
-4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filamentphp.com](https://github.com/emmanpbarrameda/filamentphp.com)<br>
-5. 🔱 Forked [emmanpbarrameda/filamentphp.com](https://github.com/emmanpbarrameda/filamentphp.com) from [filamentphp/filamentphp.com](https://github.com/filamentphp/filamentphp.com)<br>
+1. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
+2. ❌ Closed PR [#6](https://github.com/emmanpbarrameda/filament-take-picture-field/pull/6) in [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
+3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
+4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
+5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 1st, 2025, 10:04:53 AM
+Last Updated: Monday, September 1st, 2025, 11:52:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
