@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [HayderHatem/filament-sub-navigation](https://github.com/HayderHatem/filament-sub-navigation)<br>
-2. ⭐ Starred [solutionforest/Inspirecms-core](https://github.com/solutionforest/Inspirecms-core)<br>
-3. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
-4. ❌ Closed PR [#6](https://github.com/emmanpbarrameda/filament-take-picture-field/pull/6) in [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
+1. ⭐ Starred [HoanghoDev/youtube_v2](https://github.com/HoanghoDev/youtube_v2)<br>
+2. ⭐ Starred [malaman/js-image-zoom](https://github.com/malaman/js-image-zoom)<br>
+3. ⭐ Starred [HayderHatem/filament-sub-navigation](https://github.com/HayderHatem/filament-sub-navigation)<br>
+4. ⭐ Starred [solutionforest/Inspirecms-core](https://github.com/solutionforest/Inspirecms-core)<br>
 5. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 6th, 2025, 7:19:26 AM
+Last Updated: Saturday, September 6th, 2025, 9:43:28 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
