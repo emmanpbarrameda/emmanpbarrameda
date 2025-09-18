@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)<br>
-2. ⭐ Starred [HoanghoDev/youtube_v2](https://github.com/HoanghoDev/youtube_v2)<br>
-3. ⭐ Starred [malaman/js-image-zoom](https://github.com/malaman/js-image-zoom)<br>
-4. ⭐ Starred [HayderHatem/filament-sub-navigation](https://github.com/HayderHatem/filament-sub-navigation)<br>
-5. ⭐ Starred [solutionforest/Inspirecms-core](https://github.com/solutionforest/Inspirecms-core)<br>
+1. ⭐ Starred [Recombo-AI/input-ai](https://github.com/Recombo-AI/input-ai)<br>
+2. ⭐ Starred [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)<br>
+3. ⭐ Starred [HoanghoDev/youtube_v2](https://github.com/HoanghoDev/youtube_v2)<br>
+4. ⭐ Starred [malaman/js-image-zoom](https://github.com/malaman/js-image-zoom)<br>
+5. ⭐ Starred [HayderHatem/filament-sub-navigation](https://github.com/HayderHatem/filament-sub-navigation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 18th, 2025, 11:35:06 AM
+Last Updated: Thursday, September 18th, 2025, 12:26:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
