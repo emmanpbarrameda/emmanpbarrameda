@@ -170,14 +170,14 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Recombo-AI/input-ai](https://github.com/Recombo-AI/input-ai)<br>
-2. ⭐ Starred [spatie/mjml-php](https://github.com/spatie/mjml-php)<br>
-3. ⭐ Starred [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)<br>
-4. ⭐ Starred [n8n-io/n8n](https://github.com/n8n-io/n8n)<br>
-5. ⭐ Starred [HoanghoDev/youtube_v2](https://github.com/HoanghoDev/youtube_v2)<br>
+2. ⭐ Starred [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)<br>
+3. ⭐ Starred [HoanghoDev/youtube_v2](https://github.com/HoanghoDev/youtube_v2)<br>
+4. ⭐ Starred [malaman/js-image-zoom](https://github.com/malaman/js-image-zoom)<br>
+5. ⭐ Starred [HayderHatem/filament-sub-navigation](https://github.com/HayderHatem/filament-sub-navigation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 19th, 2025, 12:28:08 AM
+Last Updated: Friday, September 19th, 2025, 1:18:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
