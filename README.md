@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)<br>
-2. ⭐ Starred [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)<br>
-3. ⭐ Starred [emcie-co/parlant](https://github.com/emcie-co/parlant)<br>
-4. ⭐ Starred [Recombo-AI/input-ai](https://github.com/Recombo-AI/input-ai)<br>
-5. ⭐ Starred [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync)<br>
+1. ⭐ Starred [TwiN/gatus](https://github.com/TwiN/gatus)<br>
+2. ⭐ Starred [cachethq/cachet](https://github.com/cachethq/cachet)<br>
+3. ⭐ Starred [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)<br>
+4. ⬆️ Pushed 1 commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+5. ⭐ Starred [ollama/ollama](https://github.com/ollama/ollama)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 28th, 2025, 11:18:38 PM
+Last Updated: Monday, September 29th, 2025, 12:24:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
