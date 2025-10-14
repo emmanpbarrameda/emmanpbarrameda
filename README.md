@@ -170,14 +170,14 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jaredreich/notie](https://github.com/jaredreich/notie)<br>
-2. ⭐ Starred [MantraIdeas/LaravelEnvDoctor](https://github.com/MantraIdeas/LaravelEnvDoctor)<br>
-3. ⭐ Starred [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery)<br>
-4. ⭐ Starred [TwiN/gatus](https://github.com/TwiN/gatus)<br>
-5. ⭐ Starred [cachethq/cachet](https://github.com/cachethq/cachet)<br>
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+3. ⭐ Starred [MantraIdeas/LaravelEnvDoctor](https://github.com/MantraIdeas/LaravelEnvDoctor)<br>
+4. ⭐ Starred [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery)<br>
+5. ⭐ Starred [TwiN/gatus](https://github.com/TwiN/gatus)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 15th, 2025, 1:18:46 AM
+Last Updated: Wednesday, October 15th, 2025, 2:33:32 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
