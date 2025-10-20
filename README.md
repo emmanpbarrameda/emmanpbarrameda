@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
-2. ⭐ Starred [jaredreich/notie](https://github.com/jaredreich/notie)<br>
-3. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
-4. ⭐ Starred [MantraIdeas/LaravelEnvDoctor](https://github.com/MantraIdeas/LaravelEnvDoctor)<br>
-5. ⭐ Starred [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery)<br>
+1. ⭐ Starred [mohammedam33n/jt-express-laravel](https://github.com/mohammedam33n/jt-express-laravel)<br>
+2. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+3. ⭐ Starred [jaredreich/notie](https://github.com/jaredreich/notie)<br>
+4. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+5. ⭐ Starred [MantraIdeas/LaravelEnvDoctor](https://github.com/MantraIdeas/LaravelEnvDoctor)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, October 20th, 2025, 4:31:29 PM
+Last Updated: Monday, October 20th, 2025, 5:27:25 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
