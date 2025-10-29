@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [qgis/QGIS](https://github.com/qgis/QGIS)<br>
-2. ⭐ Starred [mohammedam33n/jt-express-laravel](https://github.com/mohammedam33n/jt-express-laravel)<br>
-3. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
-4. ⭐ Starred [jaredreich/notie](https://github.com/jaredreich/notie)<br>
-5. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)<br>
+1. ⭐ Starred [ryangjchandler/laravel-cloudflare-turnstile](https://github.com/ryangjchandler/laravel-cloudflare-turnstile)<br>
+2. ⭐ Starred [qgis/QGIS](https://github.com/qgis/QGIS)<br>
+3. ⭐ Starred [mohammedam33n/jt-express-laravel](https://github.com/mohammedam33n/jt-express-laravel)<br>
+4. ⭐ Starred [payloadcms/payload](https://github.com/payloadcms/payload)<br>
+5. ⭐ Starred [jaredreich/notie](https://github.com/jaredreich/notie)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 29th, 2025, 7:21:17 AM
+Last Updated: Wednesday, October 29th, 2025, 9:57:09 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
