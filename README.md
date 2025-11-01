@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)<br>
-2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/laravel-scheduled-maintenance](https://github.com/emmanpbarrameda/laravel-scheduled-maintenance)<br>
+1. ⭐ Starred [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)<br>
+2. ⭐ Starred [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)<br>
 3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/laravel-scheduled-maintenance](https://github.com/emmanpbarrameda/laravel-scheduled-maintenance)<br>
 4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/laravel-scheduled-maintenance](https://github.com/emmanpbarrameda/laravel-scheduled-maintenance)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/laravel-scheduled-maintenance](https://github.com/emmanpbarrameda/laravel-scheduled-maintenance)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 1st, 2025, 3:19:31 PM
+Last Updated: Saturday, November 1st, 2025, 4:27:13 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
