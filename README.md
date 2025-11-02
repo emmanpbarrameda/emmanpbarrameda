@@ -170,14 +170,14 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-2. ⭐ Starred [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)<br>
-3. ⭐ Starred [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)<br>
-4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/laravel-scheduled-maintenance](https://github.com/emmanpbarrameda/laravel-scheduled-maintenance)<br>
+2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+3. ⭐ Starred [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)<br>
+4. ⭐ Starred [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/laravel-scheduled-maintenance](https://github.com/emmanpbarrameda/laravel-scheduled-maintenance)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 2nd, 2025, 8:42:09 PM
+Last Updated: Sunday, November 2nd, 2025, 9:25:39 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
