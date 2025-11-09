@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [milon/barcode](https://github.com/milon/barcode)<br>
-2. ⭐ Starred [liriliri/eruda](https://github.com/liriliri/eruda)<br>
-3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ❗️ Opened issue [#1](https://github.com/SpykApp/filament-flat-theme/issues/1) in [SpykApp/filament-flat-theme](https://github.com/SpykApp/filament-flat-theme)<br>
+2. ⭐ Starred [milon/barcode](https://github.com/milon/barcode)<br>
+3. ⭐ Starred [liriliri/eruda](https://github.com/liriliri/eruda)<br>
 4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-5. ⭐ Starred [KalyanKS-NLP/llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)<br>
+5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 10th, 2025, 1:18:15 AM
+Last Updated: Monday, November 10th, 2025, 2:29:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
