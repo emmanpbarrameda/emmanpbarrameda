@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ageekdev/laravel-barcode](https://github.com/ageekdev/laravel-barcode)<br>
-2. ⭐ Starred [symfony/demo](https://github.com/symfony/demo)<br>
-3. ❗️ Opened issue [#1](https://github.com/SpykApp/filament-flat-theme/issues/1) in [SpykApp/filament-flat-theme](https://github.com/SpykApp/filament-flat-theme)<br>
-4. ⭐ Starred [milon/barcode](https://github.com/milon/barcode)<br>
-5. ⭐ Starred [liriliri/eruda](https://github.com/liriliri/eruda)<br>
+1. ⭐ Starred [JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)<br>
+2. ⭐ Starred [ageekdev/laravel-barcode](https://github.com/ageekdev/laravel-barcode)<br>
+3. ⭐ Starred [symfony/demo](https://github.com/symfony/demo)<br>
+4. ❗️ Opened issue [#1](https://github.com/SpykApp/filament-flat-theme/issues/1) in [SpykApp/filament-flat-theme](https://github.com/SpykApp/filament-flat-theme)<br>
+5. ⭐ Starred [milon/barcode](https://github.com/milon/barcode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 13th, 2025, 7:22:41 AM
+Last Updated: Thursday, November 13th, 2025, 9:56:43 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
