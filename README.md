@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iamthuya/google-cloud-workshops](https://github.com/iamthuya/google-cloud-workshops)<br>
-2. ⭐ Starred [eighty9nine/filament-excel-import](https://github.com/eighty9nine/filament-excel-import)<br>
-3. ⭐ Starred [JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)<br>
-4. ⭐ Starred [ageekdev/laravel-barcode](https://github.com/ageekdev/laravel-barcode)<br>
-5. ⭐ Starred [symfony/demo](https://github.com/symfony/demo)<br>
+1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+2. ⭐ Starred [iamthuya/google-cloud-workshops](https://github.com/iamthuya/google-cloud-workshops)<br>
+3. ⭐ Starred [eighty9nine/filament-excel-import](https://github.com/eighty9nine/filament-excel-import)<br>
+4. ⭐ Starred [JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)<br>
+5. ⭐ Starred [ageekdev/laravel-barcode](https://github.com/ageekdev/laravel-barcode)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 15th, 2025, 3:20:14 PM
+Last Updated: Saturday, November 15th, 2025, 4:28:11 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
