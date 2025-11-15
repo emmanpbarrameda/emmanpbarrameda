@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [eighty9nine/filament-excel-import](https://github.com/eighty9nine/filament-excel-import)<br>
-2. ⭐ Starred [JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)<br>
-3. ⭐ Starred [ageekdev/laravel-barcode](https://github.com/ageekdev/laravel-barcode)<br>
-4. ⭐ Starred [symfony/demo](https://github.com/symfony/demo)<br>
-5. ❗️ Opened issue [#1](https://github.com/SpykApp/filament-flat-theme/issues/1) in [SpykApp/filament-flat-theme](https://github.com/SpykApp/filament-flat-theme)<br>
+1. ⭐ Starred [iamthuya/google-cloud-workshops](https://github.com/iamthuya/google-cloud-workshops)<br>
+2. ⭐ Starred [eighty9nine/filament-excel-import](https://github.com/eighty9nine/filament-excel-import)<br>
+3. ⭐ Starred [JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)<br>
+4. ⭐ Starred [ageekdev/laravel-barcode](https://github.com/ageekdev/laravel-barcode)<br>
+5. ⭐ Starred [symfony/demo](https://github.com/symfony/demo)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, November 15th, 2025, 1:22:41 PM
+Last Updated: Saturday, November 15th, 2025, 2:33:08 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
