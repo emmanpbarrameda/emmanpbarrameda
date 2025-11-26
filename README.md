@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
-2. ⭐ Starred [iamthuya/google-cloud-workshops](https://github.com/iamthuya/google-cloud-workshops)<br>
-3. ⭐ Starred [eighty9nine/filament-excel-import](https://github.com/eighty9nine/filament-excel-import)<br>
-4. ⭐ Starred [JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)<br>
-5. ⭐ Starred [ageekdev/laravel-barcode](https://github.com/ageekdev/laravel-barcode)<br>
+1. ⭐ Starred [aimeos/aimeos-laravel](https://github.com/aimeos/aimeos-laravel)<br>
+2. ⭐ Starred [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli)<br>
+3. ⭐ Starred [iamthuya/google-cloud-workshops](https://github.com/iamthuya/google-cloud-workshops)<br>
+4. ⭐ Starred [eighty9nine/filament-excel-import](https://github.com/eighty9nine/filament-excel-import)<br>
+5. ⭐ Starred [JibayMcs/filament-tour](https://github.com/JibayMcs/filament-tour)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, November 26th, 2025, 9:56:29 AM
+Last Updated: Wednesday, November 26th, 2025, 11:19:30 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
