@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [savannabits/filament-modules](https://github.com/savannabits/filament-modules)<br>
-2. ⭐ Starred [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)<br>
-3. ⭐ Starred [Adembc/lazyssh](https://github.com/Adembc/lazyssh)<br>
-4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
-5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
+1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
+2. ⭐ Starred [savannabits/filament-modules](https://github.com/savannabits/filament-modules)<br>
+3. ⭐ Starred [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli)<br>
+4. ⭐ Starred [Adembc/lazyssh](https://github.com/Adembc/lazyssh)<br>
+5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/filament-take-picture-field](https://github.com/emmanpbarrameda/filament-take-picture-field)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 12th, 2025, 11:57:57 AM
+Last Updated: Friday, December 12th, 2025, 12:39:15 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
