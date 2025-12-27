@@ -1,7 +1,7 @@
 
 #
 
-[![Cover](https://i.imgur.com/HXUaVAA.png)](https://github.com/emmanpbarrameda/)
+[![Cover](https://i.imgur.com/l4BHAro.png)](https://github.com/emmanpbarrameda/)
 
 <!-- GitHub Top Icons Badge -->
 <p align="center">
