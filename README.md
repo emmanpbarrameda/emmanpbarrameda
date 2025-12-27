@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
-2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/scrollify-js](https://github.com/emmanpbarrameda/scrollify-js)<br>
+1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda](https://github.com/emmanpbarrameda/emmanpbarrameda)<br>
+3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/scrollify-js](https://github.com/emmanpbarrameda/scrollify-js)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/scrollify-js](https://github.com/emmanpbarrameda/scrollify-js)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, December 27th, 2025, 3:23:17 PM
+Last Updated: Saturday, December 27th, 2025, 4:32:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
