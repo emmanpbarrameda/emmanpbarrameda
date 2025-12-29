@@ -170,14 +170,14 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-2. ⭐ Starred [louisescher/spectre](https://github.com/louisescher/spectre)<br>
-3. ⭐ Starred [alexandr-studio/starcard](https://github.com/alexandr-studio/starcard)<br>
-4. ⭐ Starred [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template)<br>
-5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+3. ⭐ Starred [louisescher/spectre](https://github.com/louisescher/spectre)<br>
+4. ⭐ Starred [alexandr-studio/starcard](https://github.com/alexandr-studio/starcard)<br>
+5. ⭐ Starred [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 29th, 2025, 8:55:45 PM
+Last Updated: Monday, December 29th, 2025, 9:40:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
