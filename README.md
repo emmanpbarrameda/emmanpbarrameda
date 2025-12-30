@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ⭐ Starred [C4illin/ConvertX](https://github.com/C4illin/ConvertX)<br>
 2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-3. ⭐ Starred [louisescher/spectre](https://github.com/louisescher/spectre)<br>
-4. ⭐ Starred [alexandr-studio/starcard](https://github.com/alexandr-studio/starcard)<br>
-5. ⭐ Starred [guihubie/free-astro-template](https://github.com/guihubie/free-astro-template)<br>
+3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+4. ⭐ Starred [louisescher/spectre](https://github.com/louisescher/spectre)<br>
+5. ⭐ Starred [alexandr-studio/starcard](https://github.com/alexandr-studio/starcard)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 30th, 2025, 11:28:20 PM
+Last Updated: Wednesday, December 31st, 2025, 12:33:58 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
