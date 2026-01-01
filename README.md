@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [C4illin/ConvertX](https://github.com/C4illin/ConvertX)<br>
+1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-4. ⭐ Starred [louisescher/spectre](https://github.com/louisescher/spectre)<br>
-5. ⭐ Starred [alexandr-studio/starcard](https://github.com/alexandr-studio/starcard)<br>
+3. ⭐ Starred [C4illin/ConvertX](https://github.com/C4illin/ConvertX)<br>
+4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 1st, 2026, 7:22:15 PM
+Last Updated: Thursday, January 1st, 2026, 8:53:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
