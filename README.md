@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [techinz/playwright-captcha](https://github.com/techinz/playwright-captcha)<br>
-2. ⭐ Starred [tunneltodev/tunnelto](https://github.com/tunneltodev/tunnelto)<br>
-3. ⭐ Starred [nhanchaukp/filament-copyactions](https://github.com/nhanchaukp/filament-copyactions)<br>
-4. ⭐ Starred [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner)<br>
-5. ⭐ Starred [HQarroum/docker-android](https://github.com/HQarroum/docker-android)<br>
+1. ⭐ Starred [czl9707/nostalgia-gh-banner](https://github.com/czl9707/nostalgia-gh-banner)<br>
+2. ⭐ Starred [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter)<br>
+3. ⭐ Starred [techinz/playwright-captcha](https://github.com/techinz/playwright-captcha)<br>
+4. ⭐ Starred [tunneltodev/tunnelto](https://github.com/tunneltodev/tunnelto)<br>
+5. ⭐ Starred [nhanchaukp/filament-copyactions](https://github.com/nhanchaukp/filament-copyactions)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 24th, 2026, 10:24:28 PM
+Last Updated: Saturday, January 24th, 2026, 11:25:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
