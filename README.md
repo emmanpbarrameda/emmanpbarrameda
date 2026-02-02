@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VodafoneZiggoNL/filament-multi-widget](https://github.com/VodafoneZiggoNL/filament-multi-widget)<br>
-2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ⭐ Starred [Johuniq/jolyui](https://github.com/Johuniq/jolyui)<br>
+2. ⭐ Starred [VodafoneZiggoNL/filament-multi-widget](https://github.com/VodafoneZiggoNL/filament-multi-widget)<br>
 3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-5. ⭐ Starred [robgridley/zebra](https://github.com/robgridley/zebra)<br>
+5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 2nd, 2026, 1:01:24 PM
+Last Updated: Monday, February 2nd, 2026, 3:08:48 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
