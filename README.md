@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
-3. ⭐ Starred [slym758/filament-smart-date-filter](https://github.com/slym758/filament-smart-date-filter)<br>
-4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/filament-fullpage-loader](https://github.com/emmanpbarrameda/filament-fullpage-loader)<br>
+1. ⭐ Starred [JeffGepiga/DevBoxPro](https://github.com/JeffGepiga/DevBoxPro)<br>
+2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
+3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+4. ⭐ Starred [slym758/filament-smart-date-filter](https://github.com/slym758/filament-smart-date-filter)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/filament-fullpage-loader](https://github.com/emmanpbarrameda/filament-fullpage-loader)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 19th, 2026, 6:38:01 AM
+Last Updated: Thursday, February 19th, 2026, 7:35:02 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
