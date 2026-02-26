@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts)<br>
-2. ⭐ Starred [ianzcreative/taptable-tabbed-workspace](https://github.com/ianzcreative/taptable-tabbed-workspace)<br>
-3. ⭐ Starred [dacastro4/laravel-gmail](https://github.com/dacastro4/laravel-gmail)<br>
-4. 🔱 Forked [emmanpbarrameda/MINECRAFT-PLUGIN-TEMPLATE](https://github.com/emmanpbarrameda/MINECRAFT-PLUGIN-TEMPLATE) from [Criztiandev/MINECRAFT-PLUGIN-TEMPLATE](https://github.com/Criztiandev/MINECRAFT-PLUGIN-TEMPLATE)<br>
-5. ⭐ Starred [Criztiandev/MINECRAFT-PLUGIN-TEMPLATE](https://github.com/Criztiandev/MINECRAFT-PLUGIN-TEMPLATE)<br>
+1. ❗️ Opened issue [#3](https://github.com/sanzgrapher/filament-swippable-notification/issues/3) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
+2. ❗️ Opened issue [#2](https://github.com/sanzgrapher/filament-swippable-notification/issues/2) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
+3. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+4. ⭐ Starred [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts)<br>
+5. ⭐ Starred [ianzcreative/taptable-tabbed-workspace](https://github.com/ianzcreative/taptable-tabbed-workspace)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 26th, 2026, 2:01:29 PM
+Last Updated: Thursday, February 26th, 2026, 3:53:01 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
