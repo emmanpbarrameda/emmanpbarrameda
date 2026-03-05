@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#3](https://github.com/sanzgrapher/filament-swippable-notification/issues/3) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
-2. ❗️ Opened issue [#2](https://github.com/sanzgrapher/filament-swippable-notification/issues/2) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
-3. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
-4. ⭐ Starred [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts)<br>
-5. ⭐ Starred [ianzcreative/taptable-tabbed-workspace](https://github.com/ianzcreative/taptable-tabbed-workspace)<br>
+1. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
+2. ❗️ Opened issue [#3](https://github.com/sanzgrapher/filament-swippable-notification/issues/3) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
+3. ❗️ Opened issue [#2](https://github.com/sanzgrapher/filament-swippable-notification/issues/2) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
+4. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+5. ⭐ Starred [leandrocfe/filament-apex-charts](https://github.com/leandrocfe/filament-apex-charts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 5th, 2026, 7:37:57 PM
+Last Updated: Thursday, March 5th, 2026, 9:12:31 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
