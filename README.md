@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iyanski/betterlocalgov](https://github.com/iyanski/betterlocalgov)<br>
-2. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
-3. ❗️ Opened issue [#3](https://github.com/sanzgrapher/filament-swippable-notification/issues/3) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
-4. ❗️ Opened issue [#2](https://github.com/sanzgrapher/filament-swippable-notification/issues/2) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
-5. ⭐ Starred [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit)<br>
+1. 🔱 Forked [betterbinangonan/betterbinangonan](https://github.com/betterbinangonan/betterbinangonan) from [iyanski/betterlocalgov](https://github.com/iyanski/betterlocalgov)<br>
+2. ⭐ Starred [iyanski/betterlocalgov](https://github.com/iyanski/betterlocalgov)<br>
+3. ⭐ Starred [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code)<br>
+4. ❗️ Opened issue [#3](https://github.com/sanzgrapher/filament-swippable-notification/issues/3) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
+5. ❗️ Opened issue [#2](https://github.com/sanzgrapher/filament-swippable-notification/issues/2) in [sanzgrapher/filament-swippable-notification](https://github.com/sanzgrapher/filament-swippable-notification)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 7th, 2026, 9:44:00 PM
+Last Updated: Saturday, March 7th, 2026, 10:29:02 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
