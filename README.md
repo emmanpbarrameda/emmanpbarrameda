@@ -169,15 +169,15 @@ I’ve handled both academic and freelance projects, and I enjoy learning, explo
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
-2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. ⭐ Starred [garrytan/gstack](https://github.com/garrytan/gstack)<br>
+2. ⭐ Starred [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done)<br>
 3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 14th, 2026, 1:38:48 AM
+Last Updated: Saturday, March 14th, 2026, 2:51:12 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
