@@ -35,13 +35,14 @@
 
 <p align="center">
 <!-- Short intro -->
-Hello world! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="15" height="15" />
-<br>
-I'm <strong>Emmanuel "Emman" P. Barrameda</strong>, a 24-year-old IT graduate from the University of Rizal System – Binangonan, Philippines <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/ph.png" alt="Philippines" title="Philippines" width="16" height="12">
+Hello world!
+I'm <strong>Emmanuel “Emman” P. Barrameda</strong>, a Software Engineer and full-stack PHP/Laravel developer from the Philippines!
 <br><br>
-I specialize in back-end development using <strong>PHP, Laravel, FilamentPHP,</strong> and <strong>Symfony</strong>. I started coding at 16 and have since gained over 3 years of experience in web development, along with 4 years in desktop development using <strong>Java</strong>.
+I currently work at <strong>Casterly Philippines</strong> in Pasig City, where I build modern web-based systems using <strong>PHP, Laravel, FilamentPHP, Livewire, Alpine.js, Tailwind CSS, MySQL,</strong> and related technologies. My work includes developing internal tools, business systems, APIs, database-driven applications, and automated workflows that help improve company operations.
 <br><br>
-I’ve handled both academic and freelance projects, and I enjoy learning, exploring and building useful web-based systems. Beyond development, I’ve taken on leadership roles, including serving as our university organization's president, and as project manager and lead developer for our capstone project, which was awarded as the <strong>Best Software Developmental Study</strong> at our University. <br>👉 <a href="https://emmanpbarrameda.github.io/#about-me"><strong>Read my full story here!</strong></a><br>
+I started coding at 16 and have been building real-world systems since 2020 through freelance, academic, open-source, internship, and professional work. I’m also active in the Laravel and tech community, contributing to open-source projects, sharing what I learn, and encouraging more developers to build, contribute, and grow in the industry.
+<br><br>
+👉 <a href="https://emmanpbarrameda.github.io/#about-me"><strong>Read my full story here!</strong></a>
 </p>
 <br>
 <br>
