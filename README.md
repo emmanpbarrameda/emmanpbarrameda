@@ -170,15 +170,15 @@ I started coding at 16 and have been building real-world systems since 2020 thro
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-2. 🔱 Forked [emmanpbarrameda/RuView](https://github.com/emmanpbarrameda/RuView) from [ruvnet/RuView](https://github.com/ruvnet/RuView)<br>
-3. ⭐ Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)<br>
-4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
+1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
+3. 🔱 Forked [emmanpbarrameda/RuView](https://github.com/emmanpbarrameda/RuView) from [ruvnet/RuView](https://github.com/ruvnet/RuView)<br>
+4. ⭐ Starred [ruvnet/RuView](https://github.com/ruvnet/RuView)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 8th, 2026, 10:54:29 PM
+Last Updated: Saturday, May 9th, 2026, 12:19:03 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
