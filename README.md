@@ -170,15 +170,15 @@ I started coding at 16 and have been building real-world systems since 2020 thro
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#23](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
-2. ⭐ Starred [bettergovph/kapwa](https://github.com/bettergovph/kapwa)<br>
-3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-4. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/emmanpbarrameda.github.io](https://github.com/emmanpbarrameda/emmanpbarrameda.github.io)<br>
+1. 🔱 Forked [emmanpbarrameda/career-ops](https://github.com/emmanpbarrameda/career-ops) from [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+2. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+3. 💪 Opened PR [#23](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
+4. ⭐ Starred [bettergovph/kapwa](https://github.com/bettergovph/kapwa)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 14th, 2026, 12:49:12 PM
+Last Updated: Thursday, May 14th, 2026, 3:45:26 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
