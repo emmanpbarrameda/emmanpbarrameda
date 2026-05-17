@@ -170,15 +170,15 @@ I started coding at 16 and have been building real-world systems since 2020 thro
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [geodro/lerd](https://github.com/geodro/lerd)<br>
-2. 🔱 Forked [emmanpbarrameda/career-ops](https://github.com/emmanpbarrameda/career-ops) from [santifer/career-ops](https://github.com/santifer/career-ops)<br>
-3. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
-4. 💪 Opened PR [#23](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
-5. ⭐ Starred [bettergovph/kapwa](https://github.com/bettergovph/kapwa)<br>
+1. 💪 Opened PR [#26](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
+2. ⭐ Starred [geodro/lerd](https://github.com/geodro/lerd)<br>
+3. 🔱 Forked [emmanpbarrameda/career-ops](https://github.com/emmanpbarrameda/career-ops) from [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+4. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+5. 💪 Opened PR [#23](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 18th, 2026, 1:02:28 AM
+Last Updated: Monday, May 18th, 2026, 3:15:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
