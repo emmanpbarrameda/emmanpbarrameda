@@ -170,15 +170,15 @@ I started coding at 16 and have been building real-world systems since 2020 thro
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)<br>
-2. ⭐ Starred [zenui-labs/readme-studio](https://github.com/zenui-labs/readme-studio)<br>
-3. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
-4. ⭐ Starred [santifer/career-ops](https://github.com/santifer/career-ops)<br>
+1. ⭐ Starred [anyproto/anytype-ts](https://github.com/anyproto/anytype-ts)<br>
+2. ⭐ Starred [immich-app/immich](https://github.com/immich-app/immich)<br>
+3. ⭐ Starred [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)<br>
+4. ⭐ Starred [zenui-labs/readme-studio](https://github.com/zenui-labs/readme-studio)<br>
 5. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 25th, 2026, 4:59:55 PM
+Last Updated: Monday, May 25th, 2026, 8:39:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
