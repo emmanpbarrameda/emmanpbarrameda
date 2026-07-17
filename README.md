@@ -170,15 +170,15 @@ I started coding at 16 and have been building real-world systems since 2020 thro
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Dizzy.png" alt="Technologist" width="45" height="45" /> My Recent Public Activities on GitHub
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#63](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
-2. ⭐ Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)<br>
-3. 💪 Opened PR [#62](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
-4. 💪 Opened PR [#61](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
-5. ⬆️ Pushed undefined commit(s) to [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
+1. ⬆️ Pushed undefined commit(s) to [emmanpbarrameda/EMMANPBARRAMEDA_RESUME](https://github.com/emmanpbarrameda/EMMANPBARRAMEDA_RESUME)<br>
+2. 💪 Opened PR [#63](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
+3. ⭐ Starred [memstechtips/Winhance](https://github.com/memstechtips/Winhance)<br>
+4. 💪 Opened PR [#62](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
+5. 💪 Opened PR [#61](undefined) in [betterbinangonan-devs/betterbinangonan](https://github.com/betterbinangonan-devs/betterbinangonan)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 17th, 2026, 2:20:47 PM
+Last Updated: Friday, July 17th, 2026, 5:12:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <br>
